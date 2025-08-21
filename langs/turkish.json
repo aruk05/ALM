@@ -1,0 +1,407 @@
+{
+  "Name": "Aruk Language Method - Turkish",
+  "Principle": "🌱 İlk kural saygı ve sevgidir.",
+  "Purpose": "ALM yapısının tüm dillere uygulanabilmesini sağlamak ve Türkçe öğrenimini kolaylaştırmak.",
+  "Philosophy": [
+    "Önce anla, hemen kullan",
+    "Asla sadece ezberleme",
+    "Kural ezberi yok, yalnızca kullanım",
+    "Bağlam her şeydir"
+  ],
+  "AI":"Created with AI,mistakes can be happen",
+  "QuestionsBeforeStart": [
+    "Neden Türkçe öğrenmek istiyorum?",
+    "Motivasyonum ne?",
+    "Her gün ne kadar zaman ayırabilirim?"
+  ],
+  "Information": "Önce dilin mantığını öğren ve adımları uygula.",
+  "Concepts": [
+    "Agglutinative = Ekler art arda ve düzenli şekilde eklenir (ek yığılması)",
+    "Cinsiyet yok = Gramerde dişi/erkek ayrımı yok",
+    "Makale yok = 'a/an/the' gibi artikeller yok",
+    "Temel diziliş SOV = Özne + Nesne + Yüklem (fiil sonda); vurguya göre esnek",
+    "Ünlü uyumu = Ekler kökün ünlüsüne göre değişir (kalın/ince ve dar/geniş uyum)",
+    "Soru eki = '-mi/-mı/-mu/-mü' kelimeden ayrı yazılır ve vurgu öğesini izler",
+    "Olumsuzluk = Fiilde '-ma/-me' olumsuzluk eki (değil ile isim cümlesi olumsuzlanır)",
+    "Zaman-kişi ekleri = Zaman, kip ve kişi fiil sonuna eklerle gelir",
+    "Durum ekleri = -i (belirtme), -e (yönelme), -de (bulunma), -den (ayrılma), -in (tamlayan)"
+  ],
+  "Contents": [
+    "Ek mantığı ve ünlü uyumu",
+    "SOV sırası ve vurguya göre yer değiştirme",
+    "Zamanlar, kipler ve kişi ekleri",
+    "Olumsuzluk ve soru yapısı",
+    "Yaygın ilgeç/edinçler (postpositions) ve durum ekleri",
+    "Doğrudan kullanım ve kalıp örnekler"
+  ],
+
+  "LanguageTypes": {
+    "Agglutinative": {
+      "Examples": ["Turkish", "Finnish", "Japanese"],
+      "SuffixLogic": "Ekler art arda, düzenli ve şeffaf biçimde eklenir"
+    }
+  },
+
+  "TurkishBasics": {
+    "HasArticles": false,
+    "PluralSuffix": ["-lar", "-ler"],
+    "Gender": "none",
+    "SubjectSeparation": {
+      "Singular": ["ben", "sen", "o"],
+      "Plural": ["biz", "siz", "onlar"]
+    },
+    "CaseEndings": {
+      "Accusative": "-(y)i/-(y)ı/-(y)u/-(y)ü",
+      "Dative": "-(y)e/-(y)a",
+      "Locative": "-de/-da/-te/-ta",
+      "Ablative": "-den/-dan/-ten/-tan",
+      "Genitive": "-in/-ın/-un/-ün",
+      "Instrumental_Comitative": "ile (~ -la/-le)"
+    }
+  },
+
+  "Pronouns": {
+    "Subject": ["ben", "sen", "o", "biz", "siz", "onlar"],
+    "ObjectNote": "Nesne biçimi ayrı bir zamirden çok belirtme hâli ekiyle ifade edilir (beni, seni, onu, vb.).",
+    "ObjectExamples": ["beni", "seni", "onu", "bizi", "sizi", "onları"],
+    "PossessiveAdjectives": ["benim", "senin", "onun", "bizim", "sizin", "onların"],
+    "PossessivePronouns": ["benimki", "seninki", "onunki", "bizimki", "sizinki", "onlarınki"],
+    "Examples": [
+      "Bu benim kitabım.",
+      "Onu gördüm.",
+      "Bu seninki mi?"
+    ]
+  },
+
+  "AuxiliaryVerbsAndCopula": {
+    "ZeroCopula": {
+      "Description": "Şimdiki zamanda isim cümlelerinde 'to be' ek-fiili çoğu kez düşer.",
+      "Examples": ["Ben öğrenciyim.", "O doktor.", "Biz hazırım(ız)."]
+    },
+    "Değil": {
+      "Description": "İsim cümlelerini olumsuzlar.",
+      "Examples": ["Ben öğrenci değilim.", "Bu doğru değil."]
+    },
+    "Var_Yok": {
+      "Description": "Varlık-yokluk bildirir.",
+      "Examples": ["Sende kalem var mı?", "Bugün zaman yok."]
+    },
+    "Olmak": {
+      "Description": "Olma/olgunlaşma ve bazı birleşik yapılar için kullanılır.",
+      "Examples": ["Mutlu oldum.", "Öğretmen olmak istiyorum."]
+    }
+  },
+
+  "PersonalCoreWords": {
+    "Instruction": "Günlük hayatta en sık kullandığın fiil ve zarfları belirle, Türkçe karşılıklarını ve örnek cümlelerini yaz.",
+    "ExampleFromLearner": {
+      "Turkish": {
+        "Verbs": ["istemek", "bilmek", "yapmak", "gitmek", "konuşmak"],
+        "Adverbs": ["çok", "hemen", "belki", "asla", "yavaşça"]
+      },
+      "Examples": [
+        "Kahve istiyorum.",
+        "O cevabı biliyor.",
+        "Belki yarın gelir.",
+        "Asla yalan söylemem."
+      ]
+    }
+  },
+
+  "StatusStatements": {
+    "Positive": ["Evet", "Kesinlikle", "Elbette", "Tabii"],
+    "Negative": ["Hayır", "Asla", "Hiçbir şekilde"],
+    "Uncertain": ["Belki", "Sanırım", "Duruma göre"],
+    "Examples": [
+      "Evet, sana yardım edebilirim.",
+      "Hayır, kahveyi sevmem.",
+      "Belki yarın gideriz."
+    ]
+  },
+
+  "IFS_All": {
+    "StateCopula": {
+      "Description": "İsim cümleleri (ek-fiil), var/yok ve değil.",
+      "Words": ["(ek-fiil)", "var", "yok", "değil"],
+      "Examples": [
+        "Ben hazırım.",
+        "Bugün ders yok.",
+        "Bu doğru değil."
+      ]
+    },
+    "ModalsAndKip": {
+      "Description": "Yeterlilik, gereklilik, istek, niyet vb. eklerle ifade edilir.",
+      "Patterns": [
+        "-(y)ebil (yeterlilik): Gidebilirim.",
+        "-malı/-meli (gereklilik): Çalışmalıyım.",
+        "-se/-sa (koşul): Gelirse konuşuruz.",
+        "-(y)ecek (gelecek niyet): Yarın arayacağım.",
+        "-(A)r (geniş zaman alışkanlık): Her gün yürürüm."
+      ]
+    },
+    "Negation": {
+      "Description": "Fiillerde -ma/-me olumsuzluk eki zaman ve kişi ekinden önce gelir.",
+      "Examples": [
+        "Gitmiyorum.",
+        "Anlamadım.",
+        "Söylemeyecekler."
+      ]
+    },
+    "QuestionParticle": {
+      "Description": "Soru eki '-mi/-mı/-mu/-mü' ayrı yazılır, vurgu yapılan öğeyi izler.",
+      "Examples": [
+        "Hazır mısın?",
+        "Sen de geliyor musun?",
+        "Bugün mü gidiyoruz?"
+      ]
+    },
+    "TensesBasic": {
+      "PresentContinuous": "-(I)yor: Geliyorum, yapıyor.",
+      "Aorist_Habitual": "-(A)r/-ir: Giderim, sever.",
+      "Past_Defined": "-di/-dı: Geldim, yaptı.",
+      "Past_Evidential": "-miş/-mış: Gelmiş, yapmış(ım).",
+      "Future": "-(y)acak/-ecek: Gelecek, yapacağım."
+    }
+  },
+
+  "CreatingSentence": {
+    "ExampleFromTurkish": "Özne + Nesne + Yüklem (SOV) — fiil sonda",
+    "ExampleDescription": "Ben (Özne) + kahveyi (Nesne) + istiyorum (Yüklem).",
+    "ImportantRules": [
+      "SOV temel diziliştir; vurguya göre öğeler öne alınabilir.",
+      "Özne çoğu zaman düşebilir: 'Kahve istiyorum.'",
+      "Olumsuzluk '-ma/-me' zaman ve kişi ekinden önce: 'Gitmiyorum.'",
+      "Soru eki ayrı yazılır ve odak öğeyi izler: 'Bugün mü gidiyoruz?'"
+    ],
+    "SuffixOrder_Simplified": "Kök + (Olumsuzluk) + (Yeterlilik vb.) + (Zaman/Kip) + (Kişi)",
+    "Examples": [
+      "Geliyorum (gel-iyor-um).",
+      "Gelmeyeceksin (gel-me-yecek-sin).",
+      "Gelebilir miyiz? (gel-e-bil-ir miy-iz?)"
+    ]
+  },
+
+  "AmountWords": {
+    "SmallQuantity": {
+      "Words": ["az", "biraz", "birkaç"],
+      "Examples": [
+        "Biraz zamanım var.",
+        "Birkaç arkadaşım geldi."
+      ]
+    },
+    "LargeQuantity": {
+      "Words": ["çok", "birçok", "bir sürü", "yeterince"],
+      "Examples": [
+        "Çok kitabım var.",
+        "Yeterince su var."
+      ]
+    },
+    "DegreeModifiers": {
+      "Words": ["çok", "fazla", "oldukça", "epey", "yeterince"],
+      "Examples": [
+        "Bu çok önemli.",
+        "Bugün oldukça yorgunum.",
+        "Yeterince paramız var."
+      ]
+    },
+    "Negatives": {
+      "Words": ["hiç", "pek", "fazla değil"],
+      "Examples": [
+        "Hiç vaktim yok.",
+        "Pek iyi hissetmiyorum.",
+        "Fazla arkadaşım yok."
+      ]
+    }
+  },
+
+  "Prepositions_Postpositions": {
+    "Place": {
+      "Description": "Türkçede çoğu konum ifadesi isim + durum eki + ilgeç/postposition ile kurulur.",
+      "Examples": {
+        "içinde": ["odanın içinde", "çantanın içinde"],
+        "üstünde/üzerinde": ["masanın üstünde"],
+        "altında": ["köprünün altında"],
+        "arkasında": ["arabanın arkasında"],
+        "önünde": ["kapının önünde"],
+        "yanında": ["sofanın yanında", "yanımda"],
+        "arasında": ["ağaçların arasında"],
+        "içeride/dışarıda": ["okulun içinde", "okulun dışında"]
+      }
+    },
+    "Time": {
+      "Examples": {
+        "-de/-da (zaman)": ["gecede", "sabahları okulda"],
+        "pazartesi/yarın vb. yalın": ["Pazartesi geliyorum.", "Yarın görüşürüz."],
+        "-den beri (since)": ["2010'dan beri", "sabahtan beri"],
+        "-e kadar (until/by)": ["yarına kadar", "10'a kadar"],
+        "boyunca (during)": ["iki saat boyunca"],
+        "önce/sonra": ["yemekten önce", "dersten sonra"]
+      }
+    },
+    "Direction": {
+      "Examples": {
+        "-e/-a (yönelme)": ["okula gidiyorum", "eve gel"],
+        "-den/-dan (ayrılma)": ["evden çıktım"],
+        "-e doğru": ["kapıya doğru yürü"],
+        "-e kadar": ["sınıfa kadar koş"],
+        "üzerinden": ["köprü üzerinden geç"]
+      }
+    },
+    "CausePurpose": {
+      "Examples": {
+        "çünkü": ["Gitmedim çünkü hastaydım."],
+        "-dığı için": ["Geç kaldığı için özür diledi."],
+        "nedeniyle/yüzünden": ["trafik nedeniyle", "hata yüzünden"],
+        "için (amaç)": ["yardım için geldim", "barış için"]
+      }
+    },
+    "MannerInstrument": {
+      "Examples": {
+        "ile / -la/-le": ["bıçakla kes", "kalemle yaz"],
+        "gibi": ["arkadaş gibi", "aslan gibi koş"],
+        "olarak": ["öğretmen olarak çalışıyorum"]
+      }
+    },
+    "Accompaniment": {
+      "Examples": {
+        "ile": ["arkadaşımla geldim"],
+        "-sız/-siz": ["parasız kaldı", "korkusuz yürüdü"]
+      }
+    },
+    "Compound_Common": {
+      "Examples": {
+        "rağmen": ["yağmura rağmen geldik"],
+        "yerine": ["kahve yerine çay"],
+        "hakkında/konusunda": ["proje hakkında konuşmak"],
+        "sayesinde": ["senin sayende başardık"],
+        "karşın": ["tüm engellere karşın"]
+      }
+    }
+  },
+
+  "TruthStatements": {
+    "TrueStatements": {
+      "Words": ["Doğru", "Evet, doğru", "Haklısın", "Aynen"],
+      "Examples": ["Evet, bu doğru.", "Aynen öyle."]
+    },
+    "FalseStatements": {
+      "Words": ["Yanlış", "Doğru değil", "Hatalı"],
+      "Examples": ["Bu yanlış.", "Hayır, doğru değil."]
+    },
+    "UncertainStatements": {
+      "Words": ["Belki", "Emin değilim", "Olabilir", "Duruma göre"],
+      "Examples": ["Belki haklısın.", "Emin değilim."]
+    }
+  },
+
+  "QuestionTypes": {
+    "QuestionWords": ["nasıl", "kim", "kime", "kimin", "nerede", "ne zaman", "neden", "hangi", "kaç"],
+    "YesNo": {
+      "Description": "Evet/hayır soruları '-mi' ekiyle kurulur.",
+      "Examples": ["Aç mısın?", "Müziği sever misin?"]
+    },
+    "WH": {
+      "Description": "Soru sözcüğü başa gelir; fiil sonda kalır.",
+      "Examples": ["Adın ne?", "Nerede yaşıyorsun?", "Ne zaman geliyorsun?"]
+    },
+    "TagQuestions": {
+      "Description": "Onaylama soruları 'değil mi?' ile yapılır.",
+      "Examples": ["Yorgunsun, değil mi?", "Hava soğuk, değil mi?"]
+    },
+    "ChoiceQuestions": {
+      "Description": "İki seçenekli sorular 'mi... mi...' ile yapılabilir.",
+      "Examples": ["Çay mı kahve mi istersin?", "Kırmızı mı mavi mi?"]
+    }
+  },
+
+  "Conjunctions": {
+    "Coordinating": {
+      "Words": ["ve", "ama", "veya/ya da", "fakat", "ancak"],
+      "Examples": ["Çay ve kahve severim.", "Yorgun ama mutlu."]
+    },
+    "Subordinating": {
+      "Words": ["çünkü", "eğer", "ki", "diye", "-ken", "-dığı için", "-dığı halde (rağmen)"],
+      "Examples": [
+        "Yağmur yağdığı için evde kaldım.",
+        "Geç olmasına rağmen aradı.",
+        "Eğer istersen gelebilirsin.",
+        "Gelirken ekmek al."
+      ]
+    },
+    "Correlative": {
+      "Words": ["ya... ya...", "ne... ne...", "hem... hem..."],
+      "Examples": ["Ya sen ya ben gideceğiz.", "Ne çay ne kahve istiyorum.", "Hem zeki hem çalışkan."]
+    }
+  },
+
+  "EmotionWords": {
+    "Positive": ["mutlu", "heyecanlı", "sakin", "minnettar", "gururlu"],
+    "Negative": ["üzgün", "kızgın", "endişeli", "korkmuş", "yalnız"],
+    "Neutral": ["yorgun", "normal", "sıkılmış"],
+    "Examples": [
+      "Bugün mutluyum.",
+      "O köpeklerden korkuyor.",
+      "Bazen yalnız hissederler."
+    ]
+  },
+
+  "DirectionAndPositionWords": {
+    "BasicDirections": {
+      "Words": ["sağ", "sol", "ileri", "geri"],
+      "Examples": [
+        "Köşede sağa dön.",
+        "Işıklardan sonra sola git.",
+        "Lütfen ileri adım at.",
+        "Yavaşça geri çekildi."
+      ]
+    },
+    "VerticalDirections": {
+      "Words": ["yukarı", "aşağı", "üst", "alt"],
+      "Examples": [
+        "Yukarı bak.",
+        "Merdivenlerden aşağı indi.",
+        "Resim yatağın üstünde.",
+        "Kitap masanın altında."
+      ]
+    },
+    "RelativePositions": {
+      "Words": ["önünde", "arkasında", "yanında", "arasında", "bitiminde"],
+      "Examples": [
+        "Araba evin önünde.",
+        "Kedi perdenin arkasında.",
+        "Yanıma oturdu.",
+        "Park binaların arasında."
+      ]
+    }
+  },
+
+  "ChangeVerbs": {
+    "IncreaseVerbs": {
+      "Words": ["artmak", "yükselmek", "büyümek", "artırmak", "iyileşmek"],
+      "Examples": [
+        "Fiyatlar her yıl artıyor.",
+        "Sıcaklık yükseliyor.",
+        "Özgüveni hızla büyüdü.",
+        "Performansı artırdılar."
+      ]
+    },
+    "DecreaseVerbs": {
+      "Words": ["azalmak", "düşmek", "inmek", "azaltmak", "gerilemek"],
+      "Examples": [
+        "Nüfus azalıyor.",
+        "Sıcaklık düştü.",
+        "Fiyatlar indi.",
+        "Atıkları azaltmalıyız."
+      ]
+    },
+    "NeutralChange": {
+      "Words": ["değişmek", "çeşitlenmek", "dalgalanmak", "kaymak"],
+      "Examples": [
+        "Hava sık sık değişir.",
+        "Sonuçlar çeşitlenebilir.",
+        "Fiyatlar günlük dalgalanır.",
+        "Odak kaliteye kaydı."
+      ]
+    }
+  }
+}
