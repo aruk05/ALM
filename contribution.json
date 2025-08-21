@@ -1,0 +1,41 @@
+{
+  "Name": "ALM Contribution Guide",
+  "Principle": "🌱 Every contribution is made with respect and love.",
+  "Purpose": "The Aruk Language Method (ALM) is an open and evolving structure. This file guides anyone who wants to contribute.",
+  "Philosophy": [
+    "Contribution = sharing + responsibility",
+    "Everyone’s experience is valuable",
+    "Every addition should be clear, simple, and practical"
+  ],
+  "HowToContribute": {
+    "Languages": "You can add a new language JSON file (e.g., spanish.json, turkish.json).",
+    "Corrections": "If you find mistakes or missing parts in existing files, you can correct them.",
+    "Examples": "You may add new example sentences, words, or usage scenarios.",
+    "Expansions": "You can suggest new sections (e.g., Idioms, Cultural Notes)."
+  },
+  "Rules": [
+    "All contributions must follow ALM philosophy (understand first, use immediately).",
+    "Avoid heavy grammar explanations; focus on usage and context.",
+    "Examples must be realistic and from daily life.",
+    "Contributions should complement each other, not contradict."
+  ],
+  "Format": {
+    "FileStructure": "All contributions must be in JSON format.",
+    "NamingConvention": "File name = target language (e.g., english.json, german.json).",
+    "Sections": [
+      "Pronouns",
+      "AuxiliaryVerbs",
+      "CoreWords",
+      "StatusStatements",
+      "IFS_All",
+      "CreatingSentence",
+      "AmountWords",
+      "Prepositions",
+      "QuestionTypes",
+      "Conjunctions",
+      "EmotionWords",
+      "ChangeVerbs"
+    ]
+  },
+  "OpenInvitation": "We welcome contributions from everyone. ALM is a community project, and your knowledge, examples, and ideas will make it stronger."
+}

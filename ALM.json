@@ -1,0 +1,579 @@
+{
+  "Name": "Aruk Language Method",
+  "Principle": "🌱 The first rule is respect and love.",
+  "Purpose":"The aim of the ALM technique is to ensure that this ALM structure can be applied to all languages and to facilitate language learning processes.",
+  "Philosophy": [
+    "Understand first, use immediately",
+    "Never just memorize",
+    "No grammar drills, only usage",
+    "Context is everything"
+  ],
+  "QuestionsBeforeStart": [
+    "Why do I want to learn this language?",
+    "What’s my motivation?",
+    "How much time can I give daily?"
+  ],
+  "Information": "firstly, learn logic of language and follow to the instructions",
+  "Concepts": [
+    "Non-agglutinative = Language that does not use suffix stacking",
+    "Non-gender = Language with no gender-based grammar"
+  ],
+  "Contents": [
+    "Agglutinative Logic",
+    "Subject + Verb + Object Order",
+    "Subject Separation",
+    "Tense Logic Without Memorizing",
+    "Direct Usage Instead of Rules"
+  ],
+  "InstructionToAI": {
+    "Role": "You are an Aruk Language Method tutor. Your job is to guide learners step-by-step according to ALM philosophy.",
+    "Tone": "Friendly, motivational, clear",
+    "Method": "Always teach with examples, context, and usage. Avoid abstract grammar explanations.",
+    "ResponseStyle": "Keep answers short, repeat key points, and use real-life scenarios.",
+    "LearnerAdaptation": "Adapt difficulty based on learner's answers and progress."
+  },
+
+  "LanguageTypes": {
+    "Agglutinative": {
+      "Examples": ["Turkish", "Finnish", "Japanese"],
+      "SuffixLogic": "Additive & regular"
+    },
+    "Isolating": {
+      "Examples": ["Chinese", "Vietnamese"],
+      "SuffixLogic": "No suffix, word order matters"
+    },
+    "Fusional": {
+      "Examples": ["Spanish", "Russian"],
+      "SuffixLogic": "Suffixes are irregular and encode multiple things"
+    }
+  },
+  "NonAgglutinative_NonGender_Language(English)": {
+    "HasArticles": true,
+    "ArticleExamples": ["the", "a", "an"],
+    "UsesPreVerbs": true,
+    "PreVerbExamples": ["do", "does"],
+    "PluralSuffixes": ["s", "es", "ies"],
+    "SubjectSeparation": {
+      "PluralSubjects": ["I", "we", "you", "they"],
+      "PluralVerbs": ["do", "have", "have been"],
+      "SingularSubjects": ["he", "she", "it"],
+      "SingularVerbs": ["does", "has", "has been"]
+    },
+
+  "Pronouns": {
+  "Subject": ["I", "you", "he", "she", "it", "we", "they"],
+  "Object": ["me", "you", "him", "her", "it", "us", "them"],
+  "PossessiveAdjectives": ["my", "your", "his", "her", "its", "our", "their"],
+  "PossessivePronouns": ["mine", "yours", "his", "hers", "ours", "theirs"],
+  "Examples": [
+    "This is my book.",
+    "He gave it to her.",
+    "Is this yours?"
+  ]
+},
+    "AuxiliaryVerbs": {
+      "BeForms": {
+      "Present": { "I": "am", "You/We/They": "are", "He/She/It": "is" },
+      "Past": { "I/He/She/It": "was", "You/We/They": "were" },
+      "Continuous": ["being"],
+      "Perfect": ["been"]
+      },
+      "HaveForms": {
+      "Present": { "I/You/We/They": "have", "He/She/It": "has" },
+      "Past": "had"
+      },
+      "DoForms": {
+      "Present": { "I/You/We/They": "do", "He/She/It": "does" },
+      "Past": "did"
+      },
+      "Modals": ["can", "could", "will", "would", "shall", "should", "may", "might", "must"]
+},
+"PersonalCoreWords": {
+  "Instruction": "Analyze your own speech in your native language. Find the most common verbs and adverbs you use in daily life. Then write their meanings and examples in the target language.",
+  "ExampleFromLearner": {
+    "Turkish": {
+      "Verbs": ["istemek", "bilmek", "yapmak", "gitmek", "konuşmak"],
+      "Adverbs": ["çok", "hemen", "belki", "asla", "yavaşça"]
+    },
+    "English": {
+      "Verbs": ["want", "know", "do", "go", "talk"],
+      "Adverbs": ["very", "immediately", "maybe", "never", "slowly"]
+    },
+    "ExampleSentences": [
+      "I want coffee.",
+      "She knows the answer.",
+      "Maybe he will come.",
+      "I never lie."
+    ]
+  }
+},
+"StatusStatements": {
+  "Positive": ["Yes", "Absolutely", "Definitely", "Sure", "Of course"],
+  "Negative": ["No", "Not at all", "Never", "Nope"],
+  "Uncertain": ["Maybe", "I think so", "Possibly", "Not sure", "It depends"],
+  "Examples": [
+    "Yes, I can help you.",
+    "No, I don’t like coffee.",
+    "Maybe we’ll go tomorrow.",
+    "I’m not sure about that."
+  ]
+},
+  "IFS_All": {
+  "StateVerbs": {
+    "Description": "Used to express state, identity, or location of the subject.",
+    "Words": ["am", "is", "are", "was", "were"],
+    "Examples": [
+      "I am happy.",
+      "She is tired.",
+      "They were late."
+    ]
+  },
+  "Modals": {
+    "Description": "Used to express ability, possibility, necessity, or permission.",
+    "Words": ["can", "could", "may", "might", "will", "would", "shall", "should", "must"],
+    "Examples": [
+      "I can swim.",
+      "You must leave now.",
+      "She might come later."
+    ]
+  },
+  "HaveForms": {
+    "Description": "Used to show possession or to form perfect tenses (completed actions).",
+    "Words": ["have", "has", "had"],
+    "Examples": [
+      "I have finished.",
+      "She has a cat.",
+      "They had left early."
+    ]
+  },
+  "BeForms": {
+    "Description": "Used for continuous actions or passive voice constructions.",
+    "Words": ["be", "been", "being"],
+    "Examples": [
+      "She is being honest.",
+      "They have been working.",
+      "It will be done soon."
+    ]
+  },
+  "DoForms": {
+    "Description": "Used in negatives and questions when no other IFS is present.",
+    "Words": ["do", "does", "did"],
+    "Examples": [
+      "Do you like coffee?",
+      "She doesn't know.",
+      "Did they go out?"
+    ]
+  },
+  "NegationWords": {
+    "Description": "Used to make sentences negative. Often used with IFS.",
+    "Words": ["not", "never", "no"],
+    "Examples": [
+      "She is not here.",
+      "I never lie.",
+      "There is no time left."
+    ]
+  }
+},
+    "CreatingSentence":{
+    "Example from English": "Subject + IFS(one or more IFS) + Verb",
+    "ExampleDescription":"I(Subject) + am(IFS-1) + doing(IFS-2) sport(Verb) ",
+    "ImportantRules":"follow to SVO ranking according to that learning language ",
+    "IFS-Ranking":"When using multiple ifs, it is necessary to know which ifs comes first."},
+    "AmountWords": {
+    "SmallQuantity": {
+    "Words": ["little", "few", "a bit of", "a few", "a little"],
+    "Examples": [
+      "I have a little time.",
+      "She has a few friends.",
+      "Can I have a bit of sugar?"
+    ]
+  },
+    "LargeQuantity": {
+    "Words": ["much", "many", "a lot of", "lots of", "plenty of"],
+    "Examples": [
+      "I have many books.",
+      "There is a lot of water.",
+      "We have plenty of food."
+    ]
+  },
+    "DegreeModifiers": {
+    "Words": ["very", "too", "so", "quite", "enough"],
+    "Examples": [
+      "This is very important.",
+      "She is too tired to work.",
+      "It’s quite cold today.",
+      "We have enough chairs."
+    ]
+  },
+    "Negatives": {
+    "Words": ["no", "not much", "not many"],
+    "Examples": [
+      "There is no milk left.",
+      "Not much time remains.",
+      "I don’t have many friends."
+    ]
+  }
+},"Prepositions": {
+  "Place": {
+    "Description": "Used to describe the position or location of something.",
+    "Examples": {
+      "in": {
+        "Description": "Inside a space or object.",
+        "Examples": ["in the room", "in the bag", "in the house"]
+      },
+      "on": {
+        "Description": "On a surface.",
+        "Examples": ["on the table", "on the wall", "on the roof"]
+      },
+      "at": {
+        "Description": "At a specific point or location.",
+        "Examples": ["at the door", "at home", "at the station"]
+      },
+      "under": {
+        "Description": "Lower than something else.",
+        "Examples": ["under the bed", "under the bridge"]
+      },
+      "over": {
+        "Description": "Directly above something.",
+        "Examples": ["over the chair", "over the hill"]
+      },
+      "above": {
+        "Description": "Higher than something else, not touching.",
+        "Examples": ["above the clouds", "above the window"]
+      },
+      "below": {
+        "Description": "Lower than something else.",
+        "Examples": ["below the surface", "below zero"]
+      },
+      "behind": {
+        "Description": "At the back of something.",
+        "Examples": ["behind the curtain", "behind the car"]
+      },
+      "in front of": {
+        "Description": "Ahead of or before something.",
+        "Examples": ["in front of the house", "in front of the mirror"]
+      },
+      "next to": {
+        "Description": "Immediately beside something.",
+        "Examples": ["next to the sofa", "next to me"]
+      },
+      "between": {
+        "Description": "In the middle of two things.",
+        "Examples": ["between the trees", "between the boxes"]
+      },
+      "inside": {
+        "Description": "Within the boundaries.",
+        "Examples": ["inside the building", "inside the car"]
+      },
+      "outside": {
+        "Description": "Not inside.",
+        "Examples": ["outside the school", "outside the store"]
+      }
+    }
+  },
+"TruthStatements": {
+  "TrueStatements": {
+    "Words": ["True", "Correct", "Right", "Exactly", "That’s right"],
+    "Examples": [
+      "Yes, that’s true.",
+      "You are correct.",
+      "Exactly, well said."
+    ]
+  },
+  "FalseStatements": {
+    "Words": ["False", "Wrong", "Incorrect", "That’s not right", "No way"],
+    "Examples": [
+      "That’s wrong.",
+      "No, it’s false.",
+      "You’re incorrect."
+    ]
+  },
+  "UncertainStatements": {
+    "Words": ["Maybe", "I’m not sure", "It depends", "Possibly", "Could be"],
+    "Examples": [
+      "Maybe you’re right.",
+      "I’m not sure about that.",
+      "It could be true."
+    ]
+  }
+}
+,
+  "Time": {
+    "Description": "Used to describe when something happens.",
+    "Examples": {
+      "at": {
+        "Description": "Specific time or point.",
+        "Examples": ["at 5 o'clock", "at night"]
+      },
+      "on": {
+        "Description": "Specific days or dates.",
+        "Examples": ["on Monday", "on July 4th"]
+      },
+      "in": {
+        "Description": "Months, years, or general times.",
+        "Examples": ["in August", "in 2024", "in the evening"]
+      },
+      "since": {
+        "Description": "From a point in the past until now.",
+        "Examples": ["since 2010", "since morning"]
+      },
+      "for": {
+        "Description": "Duration of time.",
+        "Examples": ["for 3 hours", "for two weeks"]
+      },
+      "by": {
+        "Description": "Before a deadline or time.",
+        "Examples": ["by next week", "by 10pm"]
+      },
+      "until": {
+        "Description": "Up to a point in time.",
+        "Examples": ["until tomorrow", "until Friday"]
+      },
+      "from ... to": {
+        "Description": "Starting and ending time.",
+        "Examples": ["from Monday to Friday", "from 9 to 5"]
+      },
+      "before": {
+        "Description": "Earlier than a time or event.",
+        "Examples": ["before lunch", "before sunset"]
+      },
+      "after": {
+        "Description": "Later than a time or event.",
+        "Examples": ["after dinner", "after class"]
+      }
+    }
+  },
+  "Direction": {
+    "Description": "Used to show movement or direction.",
+    "Examples": {
+      "to": {
+        "Description": "Toward a destination.",
+        "Examples": ["go to school", "send it to him"]
+      },
+      "into": {
+        "Description": "Moving inside something.",
+        "Examples": ["walk into the room", "put it into the bag"]
+      },
+      "onto": {
+        "Description": "Moving onto a surface.",
+        "Examples": ["jump onto the table", "climb onto the roof"]
+      },
+      "out of": {
+        "Description": "Exit or movement outside.",
+        "Examples": ["get out of the car", "run out of the house"]
+      },
+      "off": {
+        "Description": "Away from a surface.",
+        "Examples": ["fall off the bike", "take it off the table"]
+      },
+      "towards": {
+        "Description": "In the direction of something.",
+        "Examples": ["walk towards the door", "run towards the light"]
+      },
+      "across": {
+        "Description": "From one side to the other.",
+        "Examples": ["run across the street", "swim across the river"]
+      },
+      "along": {
+        "Description": "Following a line or path.",
+        "Examples": ["walk along the beach", "run along the track"]
+      }
+    }
+  },
+  "CausePurpose": {
+    "Description": "Used to explain reason or purpose.",
+    "Examples": {
+      "because of": {
+        "Description": "Due to a reason.",
+        "Examples": ["because of the rain", "because of his illness"]
+      },
+      "due to": {
+        "Description": "Caused by.",
+        "Examples": ["due to traffic", "due to a mistake"]
+      },
+      "for": {
+        "Description": "Purpose or reason.",
+        "Examples": ["for your help", "for peace"]
+      }
+    }
+  },
+  "MannerInstrument": {
+    "Description": "Used to describe how, with what, or by whom.",
+    "Examples": {
+      "by": {
+        "Description": "Agent or method.",
+        "Examples": ["a book by Tolkien", "travel by car"]
+      },
+      "with": {
+        "Description": "Using a tool or feature.",
+        "Examples": ["cut with a knife", "write with a pen"]
+      },
+      "like": {
+        "Description": "Similarity.",
+        "Examples": ["like a friend", "run like a horse"]
+      },
+      "as": {
+        "Description": "Role or function.",
+        "Examples": ["as a teacher", "work as a driver"]
+      }
+    }
+  },
+  "Accompaniment": {
+    "Description": "Used to show being with or without someone/something.",
+    "Examples": {
+      "with": {
+        "Description": "Together or using.",
+        "Examples": ["with my friend", "with a smile"]
+      },
+      "without": {
+        "Description": "Not having or lacking.",
+        "Examples": ["without fear", "without money"]
+      }
+    }
+  },
+  "Compound": {
+    "Description": "Multi-word prepositions.",
+    "Examples": {
+      "in front of": {
+        "Description": "Ahead or before.",
+        "Examples": ["in front of the mirror"]
+      },
+      "on top of": {
+        "Description": "At the highest point.",
+        "Examples": ["on top of the mountain"]
+      },
+      "out of": {
+        "Description": "Outside or no longer in.",
+        "Examples": ["out of money", "out of the room"]
+      },
+      "because of": {
+        "Description": "Due to.",
+        "Examples": ["because of the weather"]
+      },
+      "according to": {
+        "Description": "As said by.",
+        "Examples": ["according to the rules"]
+      },
+      "in spite of": {
+        "Description": "Despite.",
+        "Examples": ["in spite of the rain"]
+      },
+      "instead of": {
+        "Description": "In place of.",
+        "Examples": ["instead of coffee"]
+      },
+      "in addition to": {
+        "Description": "As well as.",
+        "Examples": ["in addition to that"]
+      }
+    }
+  }
+},
+"QuestionTypes": {
+  "QuestionWords":["how","who","whom","whose","where","when","why","which","what"],
+  "YesNo": {
+    "Description": "Questions answered with yes or no.",
+    "Examples": ["Are you hungry?", "Do you like music?"]
+  },
+  "WH": {
+    "Description": "Questions that start with who, what, where, etc.",
+    "Examples": ["What is your name?", "Where do you live?"]
+  },
+  "TagQuestions": {
+    "Description": "Short yes/no check at the end.",
+    "Examples": ["You’re tired, aren’t you?", "It’s cold, isn’t it?"]
+  },
+  "ChoiceQuestions": {
+    "Description": "Offer a choice between options.",
+    "Examples": ["Do you want tea or coffee?", "Is it red or blue?"]
+  }
+},
+"Conjunctions": {
+  "Coordinating": {
+    "Words": ["and", "but", "or", "so", "yet"],
+    "Examples": ["I like tea and coffee.", "She’s tired but happy."]
+  },
+  "Subordinating": {
+    "Words": ["because", "although", "if", "when", "while", "since"],
+    "Examples": ["I stayed home because it rained.", "Although it’s late, I’ll call him."]
+  },
+  "Correlative": {
+    "Words": ["either...or", "neither...nor", "not only...but also"],
+    "Examples": ["Either you come or I go.", "Not only smart but also kind."]
+  }
+},
+"EmotionWords": {
+  "Positive": ["happy", "excited", "calm", "grateful", "proud"],
+  "Negative": ["sad", "angry", "worried", "afraid", "lonely"],
+  "Neutral": ["tired", "okay", "bored"],
+  "Examples": [
+    "I am happy today.",
+    "She is afraid of dogs.",
+    "They feel lonely sometimes."
+  ]
+},
+"DirectionAndPositionWords": {
+  "BasicDirections": {
+    "Words": ["right", "left", "forward", "backward"],
+    "Examples": [
+      "Turn right at the corner.",
+      "Go left after the light.",
+      "Step forward, please.",
+      "He moved backward slowly."
+    ]
+  },
+  "VerticalDirections": {
+    "Words": ["up", "down", "above", "below"],
+    "Examples": [
+      "Look up at the sky.",
+      "She climbed down the stairs.",
+      "The picture is above the bed.",
+      "The book is below the table."
+    ]
+  },
+  "RelativePositions": {
+    "Words": ["in front of", "behind", "next to", "between", "beside"],
+    "Examples": [
+      "The car is in front of the house.",
+      "The cat is behind the curtain.",
+      "She sat next to me.",
+      "There is a park between the buildings.",
+      "The phone is beside the keyboard."
+    ]
+  }
+},"ChangeVerbs": {
+  "IncreaseVerbs": {
+    "Words": ["increase", "rise", "grow", "go up", "improve", "boost"],
+    "Examples": [
+      "Prices increase every year.",
+      "The temperature is rising.",
+      "His confidence grew quickly.",
+      "Sales went up in July.",
+      "She wants to improve her skills.",
+      "They boosted the performance."
+    ]
+  },
+  "DecreaseVerbs": {
+    "Words": ["decrease", "fall", "drop", "go down", "reduce", "decline"],
+    "Examples": [
+      "The population is decreasing.",
+      "Temperatures fell last night.",
+      "Profits dropped suddenly.",
+      "The price went down a lot.",
+      "We need to reduce waste.",
+      "Their interest declined."
+    ]
+  },
+  "NeutralChange": {
+    "Words": ["change", "vary", "fluctuate", "shift"],
+    "Examples": [
+      "The weather changes often.",
+      "Results may vary.",
+      "Prices fluctuate daily.",
+      "The focus shifted to quality."
+    ]
+  }
+}
+
+
+}}

@@ -1,0 +1,21 @@
+{
+  "nickname": "Aruk",
+  "full_name": "Alper Ufuk Ak",
+  "role": "Creator and Author of Aruk Language Method (ALM)",
+  "email": "alperufukakk05@gmail.com",
+  "github": "https://github.com/aruk05/alm-method",
+  "creation_date": "2025-08-08",
+  "version": "1.0.0",
+  "license": {
+    "type": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "summary": "You are free to share and adapt the material for any purpose, even commercially, as long as appropriate credit is given."
+  },
+  "description": "Aruk Language Method (ALM) is an original language learning methodology designed by Aruk. It focuses on structure-based, usage-driven acquisition without rote memorization, emphasizing linguistic understanding over grammar drills.",
+  "copyright": "© 2025 Aruk. All rights reserved.",
+  "notes": [
+    "This method is the original work of Aruk and must be attributed clearly in any derivative or shared form.",
+    "Changes made to the method must be indicated and cannot imply endorsement by the original author.",
+    "The 'ALM' name is used here to refer to the official version created by Aruk."
+  ]
+}
