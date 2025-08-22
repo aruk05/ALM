@@ -403,5 +403,48 @@
         "Odak kaliteye kaydı."
       ]
     }
+  },"ConceptWords": {
+  "Temperature": {
+    "Hot": {
+      "Word": "sıcak",
+      "Examples": ["Çorba sıcak.", "Bugün hava sıcak."],
+      "Translation(tr)": "sıcak"
+    },
+    "Cold": {
+      "Word": "soğuk",
+      "Examples": ["Su soğuk.", "Dışarıda çok soğuk."],
+      "Translation(tr)": "soğuk"
+    }
+  },
+  "Taste": {
+    "Sweet": {
+      "Word": "tatlı",
+      "Examples": ["Pasta tatlı.", "Bal tatlıdır."],
+      "Translation(tr)": "tatlı"
+    },
+    "Sour": {
+      "Word": "ekşi",
+      "Examples": ["Limon ekşi.", "Süt ekşimiş."],
+      "Translation(tr)": "ekşi"
+    },
+    "Bitter": {
+      "Word": "acı",
+      "Examples": ["Kahve acı.", "Biber acı."],
+      "Translation(tr)": "acı"
+    }
+  },
+  "Texture": {
+    "Hard": {
+      "Word": "sert",
+      "Examples": ["Taş serttir.", "Yatak çok sert."],
+      "Translation(tr)": "sert"
+    },
+    "Soft": {
+      "Word": "yumuşak",
+      "Examples": ["Yastık yumuşak.", "Onun sesi yumuşak."],
+      "Translation(tr)": "yumuşak"
+    }
   }
+}
+
 }
