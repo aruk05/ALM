@@ -1,298 +1,637 @@
 {
-  "Name": "Aruk Language Method - Spanish",
+  "Name": "Método de Aprendizaje de Idiomas Aruk",
   "Principle": "🌱 La primera regla es respeto y amor.",
-  "Purpose": "El objetivo del método ALM es aplicar esta estructura a todos los idiomas y facilitar el aprendizaje del español.",
+  "Purpose": "El objetivo de la técnica ALM es garantizar que esta estructura pueda aplicarse a todos los idiomas y facilitar el proceso de aprendizaje.",
   "Philosophy": [
-    "Primero entiende, usa inmediatamente",
-    "Nunca solo memorices",
-    "Sin reglas gramaticales, solo uso",
+    "Primero entiende, luego usa inmediatamente",
+    "Nunca memorices mecánicamente",
+    "Nada de reglas gramaticales, solo uso",
     "El contexto lo es todo"
   ],
   "QuestionsBeforeStart": [
-    "¿Por qué quiero aprender español?",
+    "¿Por qué quiero aprender este idioma?",
     "¿Cuál es mi motivación?",
-    "¿Cuánto tiempo puedo dedicar cada día?"
+    "¿Cuánto tiempo puedo dedicar diariamente?"
   ],
-  "AI":"Created with AI,mistakes can happen",
-  "Information": "Primero aprende la lógica del idioma y sigue las instrucciones.",
+  "Information": "Primero, aprende la lógica del idioma y sigue las instrucciones",
   "Concepts": [
-    "Fusional = Las terminaciones verbales expresan persona, número y tiempo al mismo tiempo",
-    "Género = Sustantivos y adjetivos masculinos y femeninos",
-    "SVO = Español sigue orden Sujeto + Verbo + Objeto, pero el sujeto puede omitirse porque el verbo ya lo indica"
+    "No aglutinativo = Idioma que no usa acumulación de sufijos",
+    "Sin género = Idioma sin gramática basada en género"
   ],
   "Contents": [
-    "Lógica de conjugación",
-    "Orden Sujeto + Verbo + Objeto (SVO, con sujeto omitido a menudo)",
-    "Concordancia de género y número",
-    "Uso directo en lugar de memorizar reglas",
-    "Tiempos básicos a través de ejemplos"
+    "Lógica aglutinativa",
+    "Orden Sujeto + Verbo + Objeto (SVO)",
+    "Separación del sujeto",
+    "Lógica de tiempos sin memorización",
+    "Uso directo en lugar de reglas"
   ],
-
-  "Pronouns": {
-    "Subject": ["yo", "tú", "él", "ella", "usted", "nosotros/nosotras", "vosotros/vosotras", "ellos", "ellas", "ustedes"],
-    "Object": ["me", "te", "lo/la", "nos", "os", "los/las"],
-    "PossessiveAdjectives": ["mi", "tu", "su", "nuestro/nuestra", "vuestro/vuestra", "sus"],
-    "PossessivePronouns": ["mío/mía", "tuyo/tuya", "suyo/suya", "nuestro/nuestra", "vuestro/vuestra", "suyos/suyas"],
-    "Examples": [
-      "Este es mi libro.",
-      "Él me dio la pelota.",
-      "¿Es tuyo?"
-    ]
+  "InstructionToAI": {
+    "Role": "Eres un tutor del Método Aruk. Tu trabajo es guiar al estudiante paso a paso de acuerdo con la filosofía ALM.",
+    "Tone": "Amigable, motivador, claro",
+    "Method": "Siempre enseña con ejemplos, contexto y uso. Evita explicaciones gramaticales abstractas.",
+    "ResponseStyle": "Mantén las respuestas cortas, repite puntos clave y usa situaciones de la vida real.",
+    "LearnerAdaptation": "Adapta la dificultad según las respuestas y el progreso del estudiante."
   },
-
-  "AuxiliaryVerbs": {
-    "Ser": {
-      "Description": "Identidad, profesión, características permanentes.",
-      "Present": ["soy", "eres", "es", "somos", "sois", "son"],
-      "Past": ["fui", "fuiste", "fue", "fuimos", "fuisteis", "fueron"],
-      "Examples": ["Soy estudiante.", "Ella fue profesora."]
+  "LanguageTypes": {
+    "Agglutinative": {
+      "Examples": ["Turco", "Finés", "Japonés"],
+      "SuffixLogic": "Aditivo y regular"
     },
-    "Estar": {
-      "Description": "Estados temporales, emociones, ubicación.",
-      "Present": ["estoy", "estás", "está", "estamos", "estáis", "están"],
-      "Past": ["estuve", "estuviste", "estuvo", "estuvimos", "estuvisteis", "estuvieron"],
-      "Examples": ["Estoy cansado.", "Ellos estuvieron aquí."]
+    "Isolating": {
+      "Examples": ["Chino", "Vietnamita"],
+      "SuffixLogic": "Sin sufijos, el orden de palabras importa"
     },
-    "Haber": {
-      "Description": "Auxiliar para tiempos compuestos y para ‘hay’.",
-      "Present": ["he", "has", "ha", "hemos", "habéis", "han"],
-      "Past": ["hube", "hubiste", "hubo", "hubimos", "hubisteis", "hubieron"],
-      "Examples": ["He comido.", "Habíamos terminado.", "Hay un libro en la mesa."]
+    "Fusional": {
+      "Examples": ["Español", "Ruso"],
+      "SuffixLogic": "Los sufijos son irregulares y codifican múltiples significados"
     }
   },
-
-  "PersonalCoreWords": {
-    "Instruction": "Encuentra los verbos y adverbios más comunes que usas en tu vida diaria y tradúcelos al español.",
-    "ExampleFromLearner": {
-      "Turkish": {
-        "Verbs": ["istemek", "bilmek", "yapmak", "gitmek", "konuşmak"],
-        "Adverbs": ["çok", "hemen", "belki", "asla", "yavaşça"]
-      },
-      "Spanish": {
-        "Verbs": ["querer", "saber", "hacer", "ir", "hablar"],
-        "Adverbs": ["mucho", "enseguida", "quizás", "nunca", "lentamente"]
-      },
-      "ExampleSentences": [
-        "Quiero café.",
-        "Ella sabe la respuesta.",
-        "Quizás venga mañana.",
-        "Nunca miento."
-      ]
+  "NonAgglutinative_NonGender_Language(Spanish)": {
+    "HasArticles": true,
+    "ArticleExamples": ["el", "la", "los", "las", "un", "una"],
+    "UsesPreVerbs": false,
+    "PreVerbExamples": [],
+    "PluralSuffixes": ["-s", "-es"],
+    "SubjectSeparation": {
+      "PluralSubjects": ["yo", "nosotros", "vosotros", "ustedes", "ellos"],
+      "PluralVerbs": ["hacemos", "tenemos", "hemos"],
+      "SingularSubjects": ["él", "ella", "eso"],
+      "SingularVerbs": ["hace", "tiene", "ha"]
     }
   },
-
-  "StatusStatements": {
-    "Positive": ["Sí", "Por supuesto", "Claro", "Exactamente"],
-    "Negative": ["No", "Nunca", "De ninguna manera"],
-    "Uncertain": ["Quizás", "Creo que sí", "Depende"],
-    "Examples": [
-      "Sí, puedo ayudarte.",
-      "No me gusta el café.",
-      "Quizás vayamos mañana."
-    ]
-  },
-
-  "IFS_All": {
-    "Ser/Estar": {
-      "Description": "Ser = identidad, permanente. Estar = estado o ubicación temporal.",
+  "NegationAndSimilarity": {
+    "Negation": {
+      "Words": ["no", "nunca", "nada", "nadie", "jamás"],
       "Examples": [
-        "Soy alto.",
-        "Ella es profesora.",
-        "Estoy feliz.",
-        "Estamos en casa."
-      ]
+        "No estoy cansado.",
+        "No, gracias.",
+        "Él nunca miente.",
+        "No hay nada aquí.",
+        "Nadie lo sabe."
+      ],
+      "Translation(tr)": ["değil/hayır", "asla", "hiçbir şey", "kimse", "asla"]
     },
-    "Haber": {
-      "Description": "Existencia o tiempos compuestos.",
+    "Similarity": {
+      "Words": ["como", "como si", "parecido a"],
       "Examples": [
-        "Hay un coche.",
-        "He terminado.",
-        "Habíamos hablado."
-      ]
-    },
-    "Modals": {
-      "Description": "Capacidad, necesidad, intención.",
-      "Words": ["poder", "deber", "tener que", "querer", "ir a"],
-      "Examples": [
-        "Puedo nadar.",
-        "Debes salir.",
-        "Tengo que estudiar.",
-        "Voy a comer."
-      ]
-    },
-    "NegationWords": {
-      "Description": "Negación en español.",
-      "Words": ["no", "nunca", "jamás", "nadie", "nada"],
-      "Examples": [
-        "No estoy aquí.",
-        "Nunca miento.",
-        "No tengo nada."
-      ]
+        "Corre como el viento.",
+        "Parece como si supiera.",
+        "Este lugar es parecido al nuestro."
+      ],
+      "Translation(tr)": ["gibi", "sanki", "benzer/-e benzer"]
     }
   },
-
-  "CreatingSentence": {
-    "ExampleFromSpanish": "Sujeto + Verbo + Objeto (SVO)",
-    "ExampleDescription": "Yo (Sujeto) + quiero (Verbo) + café (Objeto)",
-    "ImportantRules": [
-      "El sujeto puede omitirse: ‘Quiero café’.",
-      "Negación va antes del verbo: ‘No quiero café’.",
-      "Auxiliares primero, verbo principal después."
+"Pronouns": {
+  "Subject": ["yo", "tú", "él", "ella", "eso", "nosotros", "vosotros", "ellos"],
+  "Object": ["me", "te", "lo", "la", "nos", "os", "los", "las"],
+  "PossessiveAdjectives": ["mi", "tu", "su", "nuestro", "vuestro", "su"],
+  "PossessivePronouns": ["mío", "tuyo", "suyo", "nuestro", "vuestro", "suyo"],
+  "Examples": [
+    "Este es mi libro.",
+    "Él se lo dio a ella.",
+    "¿Es tuyo?"
+  ]
+},
+"AuxiliaryVerbs": {
+  "BeForms": {
+    "Present": { "yo": "soy/estoy", "tú": "eres/estás", "él/ella/eso": "es/está", "nosotros": "somos/estamos", "vosotros": "sois/estáis", "ellos": "son/están" },
+    "Past": { "yo": "fui/estuve", "tú": "fuiste/estuviste", "él/ella/eso": "fue/estuvo", "nosotros": "fuimos/estuvimos", "vosotros": "fuisteis/estuvisteis", "ellos": "fueron/estuvieron" },
+    "Continuous": ["estando"],
+    "Perfect": ["sido", "estado"]
+  },
+  "HaveForms": {
+    "Present": { "yo": "he", "tú": "has", "él/ella/eso": "ha", "nosotros": "hemos", "vosotros": "habéis", "ellos": "han" },
+    "Past": "había / hubieron"
+  },
+  "DoForms": {
+    "Present": { "yo": "hago", "tú": "haces", "él/ella/eso": "hace", "nosotros": "hacemos", "vosotros": "hacéis", "ellos": "hacen" },
+    "Past": "hice / hacías"
+  },
+  "Modals": ["poder", "podría", "querer", "querría", "deber", "debería", "haber de", "tener que"]
+},"LanguageFeatures": {
+  "Type": "Fusional",
+  "Overview": "El español es una lengua flexiva: las terminaciones cambian según persona, número, tiempo, modo y género.",
+  "Gender": {
+    "Masculine": ["-o", "-os"],
+    "Feminine": ["-a", "-as"],
+    "Notes": "La mayoría de sustantivos terminados en -o son masculinos, en -a son femeninos, pero hay excepciones (el día, la mano)."
+  },
+  "PluralFormation": {
+    "Regular": [
+      "Vocal + s → casa → casas",
+      "Consonante + es → papel → papeles"
     ],
-    "Examples": [
-      "Estoy estudiando español.",
-      "He comido pan.",
-      "Voy a viajar mañana."
+    "Irregular": [
+      "el lápiz → los lápices",
+      "el pez → los peces"
     ]
   },
-
-  "AmountWords": {
-    "SmallQuantity": {
-      "Words": ["poco", "poca", "unos pocos", "un poco de"],
-      "Examples": ["Tengo poco tiempo.", "Ella tiene unos pocos amigos."]
-    },
-    "LargeQuantity": {
-      "Words": ["mucho", "mucha", "muchos", "muchas", "bastante"],
-      "Examples": ["Tengo muchos libros.", "Hay mucha agua."]
-    },
-    "DegreeModifiers": {
-      "Words": ["muy", "demasiado", "tan", "bastante", "suficiente"],
-      "Examples": ["Es muy importante.", "Está demasiado cansado.", "Tenemos suficiente dinero."]
-    },
-    "Negatives": {
-      "Words": ["ninguno/ninguna", "no mucho", "no muchos"],
-      "Examples": ["No queda leche.", "Ninguna persona vino."]
-    }
-  },
-
-  "Prepositions": {
-    "Place": {
-      "Examples": {
-        "en": ["en la casa", "en la mesa"],
-        "sobre": ["sobre la cama"],
-        "debajo de": ["debajo de la mesa"],
-        "detrás de": ["detrás del coche"],
-        "delante de": ["delante de la puerta"],
-        "entre": ["entre los árboles"],
-        "cerca de": ["cerca del parque"],
-        "lejos de": ["lejos de la ciudad"]
+  "VerbConjugation": {
+    "PresentTense": {
+      "AR": {
+        "Endings": ["-o", "-as", "-a", "-amos", "-áis", "-an"],
+        "Example": "hablar → hablo, hablas, habla, hablamos, habláis, hablan"
+      },
+      "ER": {
+        "Endings": ["-o", "-es", "-e", "-emos", "-éis", "-en"],
+        "Example": "comer → como, comes, come, comemos, coméis, comen"
+      },
+      "IR": {
+        "Endings": ["-o", "-es", "-e", "-imos", "-ís", "-en"],
+        "Example": "vivir → vivo, vives, vive, vivimos, vivís, viven"
       }
     },
-    "Time": {
-      "Examples": {
-        "a las": ["a las 5", "a las 9 en punto"],
-        "en": ["en agosto", "en 2024"],
-        "desde": ["desde 2010"],
-        "durante": ["durante tres horas"],
-        "hasta": ["hasta mañana"],
-        "antes de": ["antes de la cena"],
-        "después de": ["después de la clase"]
+    "PastTense": {
+      "Preterite": {
+        "AR": ["-é", "-aste", "-ó", "-amos", "-asteis", "-aron"],
+        "ER/IR": ["-í", "-iste", "-ió", "-imos", "-isteis", "-ieron"],
+        "Example": "hablar → hablé, hablaste, habló…"
+      },
+      "Imperfect": {
+        "AR": ["-aba", "-abas", "-aba", "-ábamos", "-abais", "-aban"],
+        "ER/IR": ["-ía", "-ías", "-ía", "-íamos", "-íais", "-ían"],
+        "Example": "comer → comía, comías, comía…"
       }
     },
-    "Direction": {
-      "Examples": {
-        "a": ["voy a la escuela"],
-        "hacia": ["camina hacia la puerta"],
-        "hasta": ["corrió hasta la playa"],
-        "por": ["pasear por el parque"],
-        "contra": ["chocar contra la pared"]
+    "FutureTense": {
+      "Endings": ["-é", "-ás", "-á", "-emos", "-éis", "-án"],
+      "Example": "hablar → hablaré, hablarás, hablará…"
+    }
+  },
+  "Notes": [
+    "⚡ Los verbos irregulares (ser, ir, tener, estar) cambian sus raíces.",
+    "⚡ El pronombre sujeto (yo, tú, él…) suele omitirse porque la terminación ya lo indica.",
+    "⚡ El orden de palabras es flexible, pero SVO es lo más común."
+  ]
+},
+"PersonalCoreWords": {
+  "Instruction": "Analiza tu propio habla en tu idioma nativo. Encuentra los verbos y adverbios más comunes que usas en la vida diaria. Luego escribe sus significados y ejemplos en el idioma objetivo.",
+  "ExampleFromLearner": {
+    "Turkish": {
+      "Verbs": ["istemek", "bilmek", "yapmak", "gitmek", "konuşmak"],
+      "Adverbs": ["çok", "hemen", "belki", "asla", "yavaşça"]
+    },
+    "Spanish": {
+      "Verbs": ["querer", "saber", "hacer", "ir", "hablar"],
+      "Adverbs": ["muy", "inmediatamente", "quizás", "nunca", "lentamente"]
+    },
+    "ExampleSentences": [
+      "Quiero café.",
+      "Ella sabe la respuesta.",
+      "Quizás él venga.",
+      "Nunca miento."
+    ]
+  }
+},
+"StatusStatements": {
+  "Positive": ["Sí", "Absolutamente", "Definitivamente", "Claro", "Por supuesto"],
+  "Negative": ["No", "En absoluto", "Nunca", "Para nada"],
+  "Uncertain": ["Quizás", "Creo que sí", "Posiblemente", "No estoy seguro", "Depende"],
+  "Examples": [
+    "Sí, puedo ayudarte.",
+    "No, no me gusta el café.",
+    "Quizás vayamos mañana.",
+    "No estoy seguro de eso."
+  ]
+},
+"IFS_All": {
+  "StateVerbs": {
+    "Description": "Se usan para expresar estado, identidad o localización del sujeto.",
+    "Words": ["ser", "estar", "fui", "era", "estuve"],
+    "Examples": [
+      "Soy feliz.",
+      "Ella está cansada.",
+      "Ellos fueron tarde."
+    ]
+  },
+  "Modals": {
+    "Description": "Se usan para expresar habilidad, posibilidad, necesidad o permiso.",
+    "Words": ["poder", "podría", "deber", "debería", "tener que"],
+    "Examples": [
+      "Puedo nadar.",
+      "Debes salir ahora.",
+      "Ella podría venir más tarde."
+    ]
+  },
+  "HaveForms": {
+    "Description": "Se usan para mostrar posesión o formar tiempos perfectos (acciones completadas).",
+    "Words": ["tener", "haber"],
+    "Examples": [
+      "Tengo un gato.",
+      "He terminado.",
+      "Habían salido temprano."
+    ]
+  },
+  "BeForms": {
+    "Description": "Se usan en acciones continuas o construcciones pasivas.",
+    "Words": ["estar", "ser", "sido", "estando"],
+    "Examples": [
+      "Ella está siendo honesta.",
+      "Han estado trabajando.",
+      "Será hecho pronto."
+    ]
+  },
+  "DoForms": {
+    "Description": "En español no existe un auxiliar especial como 'do' en inglés. Se usan negaciones con 'no' y preguntas con inversión.",
+    "Words": ["hacer"],
+    "Examples": [
+      "¿Te gusta el café?",
+      "Ella no sabe.",
+      "¿Hicieron la tarea?"
+    ]
+  },
+  "NegationWords": {
+    "Description": "Se usan para hacer oraciones negativas. A menudo se combinan con verbos.",
+    "Words": ["no", "nunca", "jamás", "nadie", "nada"],
+    "Examples": [
+      "Ella no está aquí.",
+      "Nunca miento.",
+      "No hay tiempo."
+    ]
+  }
+},
+"CreatingSentence": {
+  "Example from Spanish": "Sujeto + verbo auxiliar (si existe) + verbo principal + complemento",
+  "ExampleDescription": "Yo (sujeto) + estoy (auxiliar) + leyendo (verbo principal) un libro (complemento).",
+  "ImportantRules": "Seguir el orden SVO (sujeto-verbo-objeto), aunque se permite flexibilidad para énfasis.",
+  "IFS-Ranking": "Cuando se usan múltiples auxiliares, primero van los modales, luego 'haber' o 'estar', y finalmente el verbo principal."
+},
+"AmountWords": {
+  "SmallQuantity": {
+    "Words": ["poco", "unos pocos", "un poco de"],
+    "Examples": [
+      "Tengo poco tiempo.",
+      "Ella tiene unos pocos amigos.",
+      "¿Me das un poco de azúcar?"
+    ]
+  },
+  "LargeQuantity": {
+    "Words": ["mucho", "muchos", "mucha", "un montón de", "bastante"],
+    "Examples": [
+      "Tengo muchos libros.",
+      "Hay mucha agua.",
+      "Tenemos bastante comida."
+    ]
+  },
+  "DegreeModifiers": {
+    "Words": ["muy", "demasiado", "tan", "bastante", "suficiente"],
+    "Examples": [
+      "Esto es muy importante.",
+      "Ella está demasiado cansada para trabajar.",
+      "Hoy está bastante frío.",
+      "Tenemos suficientes sillas."
+    ]
+  },
+  "Negatives": {
+    "Words": ["ninguno", "no mucho", "no muchos"],
+    "Examples": [
+      "No queda leche.",
+      "No queda mucho tiempo.",
+      "No tengo muchos amigos."
+    ]
+  }
+},
+"Prepositions": {
+  "Place": {
+    "Description": "Se usan para describir la posición o localización de algo.",
+    "Examples": {
+      "en": {
+        "Description": "Dentro de un espacio u objeto.",
+        "Examples": ["en la habitación", "en la bolsa", "en la casa"]
+      },
+      "sobre": {
+        "Description": "Encima de una superficie.",
+        "Examples": ["sobre la mesa", "sobre la pared"]
+      },
+      "a": {
+        "Description": "En un punto específico.",
+        "Examples": ["a la puerta", "a casa", "a la estación"]
+      },
+      "debajo de": {
+        "Description": "Más abajo que algo.",
+        "Examples": ["debajo de la cama", "debajo del puente"]
+      },
+      "encima de": {
+        "Description": "Directamente arriba de algo.",
+        "Examples": ["encima de la silla", "encima de la colina"]
+      },
+      "detrás de": {
+        "Description": "En la parte trasera de algo.",
+        "Examples": ["detrás de la cortina", "detrás del coche"]
+      },
+      "delante de": {
+        "Description": "Enfrente o antes de algo.",
+        "Examples": ["delante de la casa", "delante del espejo"]
+      },
+      "entre": {
+        "Description": "En medio de dos cosas.",
+        "Examples": ["entre los árboles", "entre las cajas"]
+      },
+      "al lado de": {
+        "Description": "Inmediatamente junto a algo.",
+        "Examples": ["al lado del sofá", "al lado de mí"]
+      },
+      "dentro de": {
+        "Description": "Dentro de los límites.",
+        "Examples": ["dentro del edificio", "dentro del coche"]
+      },
+      "fuera de": {
+        "Description": "No dentro.",
+        "Examples": ["fuera de la escuela", "fuera de la tienda"]
       }
     }
+  }
+},
+"TruthStatements": {
+  "TrueStatements": {
+    "Words": ["Verdad", "Correcto", "Exacto", "Así es"],
+    "Examples": [
+      "Sí, es verdad.",
+      "Tienes razón.",
+      "Exacto."
+    ]
   },
-
-  "QuestionTypes": {
-    "YesNo": {
-      "Examples": ["¿Tienes hambre?", "¿Te gusta la música?"]
+  "FalseStatements": {
+    "Words": ["Falso", "Incorrecto", "No es cierto"],
+    "Examples": [
+      "Eso es falso.",
+      "No, no es cierto.",
+      "Estás equivocado."
+    ]
+  },
+  "UncertainStatements": {
+    "Words": ["Quizás", "No estoy seguro", "Depende", "Posiblemente"],
+    "Examples": [
+      "Quizás tengas razón.",
+      "No estoy seguro de eso.",
+      "Posiblemente sea verdad."
+    ]
+  }
+},
+"Time": {
+  "Description": "Se usan para describir cuándo ocurre algo.",
+  "Examples": {
+    "a las": {
+      "Description": "Hora específica.",
+      "Examples": ["a las 5 en punto", "a las 10 de la noche"]
     },
-    "WH": {
-      "Examples": ["¿Qué es tu nombre?", "¿Dónde vives?", "¿Cuándo vienes?"]
+    "el": {
+      "Description": "Días o fechas específicas.",
+      "Examples": ["el lunes", "el 4 de julio"]
     },
-    "TagQuestions": {
-      "Examples": ["Eres estudiante, ¿verdad?", "Hace frío, ¿no?"]
+    "en": {
+      "Description": "Meses, años o tiempos generales.",
+      "Examples": ["en agosto", "en 2024", "en la tarde"]
     },
-    "ChoiceQuestions": {
-      "Examples": ["¿Quieres té o café?", "¿Es rojo o azul?"]
+    "desde": {
+      "Description": "Desde un punto en el pasado hasta ahora.",
+      "Examples": ["desde 2010", "desde la mañana"]
+    },
+    "durante": {
+      "Description": "Duración de tiempo.",
+      "Examples": ["durante 3 horas", "durante dos semanas"]
+    },
+    "hasta": {
+      "Description": "Hasta un momento en el tiempo.",
+      "Examples": ["hasta mañana", "hasta el viernes"]
+    },
+    "antes de": {
+      "Description": "Más temprano que un tiempo o evento.",
+      "Examples": ["antes del almuerzo", "antes del atardecer"]
+    },
+    "después de": {
+      "Description": "Más tarde que un tiempo o evento.",
+      "Examples": ["después de la cena", "después de la clase"]
     }
-  },
-
-  "Conjunctions": {
-    "Coordinating": {
-      "Words": ["y", "pero", "o", "así que"],
-      "Examples": ["Me gusta el té y el café.", "Está cansado pero feliz."]
+  }
+},
+"Direction": {
+  "Description": "Se usan para mostrar movimiento o dirección.",
+  "Examples": {
+    "a": {
+      "Description": "Hacia un destino.",
+      "Examples": ["ir a la escuela", "enviarlo a él"]
     },
-    "Subordinating": {
-      "Words": ["porque", "aunque", "si", "cuando", "mientras"],
-      "Examples": ["Me quedé en casa porque llovía.", "Aunque es tarde, lo llamaré."]
+    "hacia": {
+      "Description": "En dirección a algo.",
+      "Examples": ["caminar hacia la puerta", "correr hacia la luz"]
     },
-    "Correlative": {
-      "Words": ["o...o", "ni...ni", "no solo...sino también"],
-      "Examples": ["O vienes tú o voy yo.", "Ni estudio ni trabajo."]
+    "en": {
+      "Description": "Entrando en un lugar.",
+      "Examples": ["entrar en la sala", "ponerlo en la bolsa"]
+    },
+    "fuera de": {
+      "Description": "Salir o movimiento afuera.",
+      "Examples": ["salir fuera de la casa", "sacar algo fuera de la caja"]
+    },
+    "sobre": {
+      "Description": "Movimiento hacia encima de una superficie.",
+      "Examples": ["saltar sobre la mesa", "trepar sobre el techo"]
+    },
+    "a través de": {
+      "Description": "De un lado al otro.",
+      "Examples": ["correr a través de la calle", "nadar a través del río"]
+    },
+    "a lo largo de": {
+      "Description": "Siguiendo una línea o camino.",
+      "Examples": ["caminar a lo largo de la playa", "correr a lo largo del sendero"]
     }
-  },
-
-  "EmotionWords": {
-    "Positive": ["feliz", "emocionado", "tranquilo", "agradecido", "orgulloso"],
-    "Negative": ["triste", "enojado", "preocupado", "asustado", "solo"],
-    "Neutral": ["cansado", "normal", "aburrido"],
-    "Examples": ["Estoy feliz hoy.", "Ella está triste.", "Me siento aburrido."]
-  },
-
-  "ChangeVerbs": {
-    "IncreaseVerbs": {
-      "Words": ["aumentar", "subir", "crecer", "mejorar"],
-      "Examples": ["Los precios aumentan cada año.", "Su confianza creció."]
+  }
+},
+"CausePurpose": {
+  "Description": "Se usan para explicar causa o propósito.",
+  "Examples": {
+    "por": {
+      "Description": "A causa de algo.",
+      "Examples": ["por la lluvia", "por su enfermedad"]
     },
-    "DecreaseVerbs": {
-      "Words": ["disminuir", "bajar", "reducir", "caer"],
-      "Examples": ["La población está disminuyendo.", "Los precios bajaron."]
+    "debido a": {
+      "Description": "Causado por.",
+      "Examples": ["debido al tráfico", "debido a un error"]
     },
-    "NeutralChange": {
-      "Words": ["cambiar", "variar", "fluctuar"],
-      "Examples": ["El clima cambia mucho.", "Los resultados varían."]
+    "para": {
+      "Description": "Propósito o razón.",
+      "Examples": ["para tu ayuda", "para la paz"]
+    },
+    "gracias a": {
+      "Description": "Por una causa positiva.",
+      "Examples": ["gracias a ti", "gracias al éxito"]
     }
-  },"ConceptWords": {
-  "Temperature": {
-    "Hot": {
-      "Word": "caliente",
-      "Examples": ["La sopa está caliente.", "Hace un día caliente."],
-      "Translation(tr)": "sıcak"
+  }
+},
+"MannerInstrument": {
+  "Description": "Se usan para describir cómo, con qué o por quién.",
+  "Examples": {
+    "con": {
+      "Description": "Usando una herramienta o recurso.",
+      "Examples": ["cortar con un cuchillo", "escribir con un bolígrafo"]
     },
-    "Cold": {
-      "Word": "frío",
-      "Examples": ["El agua está fría.", "Hace mucho frío afuera."],
-      "Translation(tr)": "soğuk"
+    "por": {
+      "Description": "Agente o método.",
+      "Examples": ["un libro por Tolkien", "viajar por coche"]
+    },
+    "como": {
+      "Description": "Similitud o rol.",
+      "Examples": ["trabajar como profesor", "correr como un caballo"]
+    },
+    "sin": {
+      "Description": "Falta o carencia.",
+      "Examples": ["sin miedo", "sin dinero"]
     }
-  },
-  "Taste": {
-    "Sweet": {
-      "Word": "dulce",
-      "Examples": ["El pastel es dulce.", "La miel sabe dulce."],
-      "Translation(tr)": "tatlı"
+  }
+},
+"Accompaniment": {
+  "Description": "Se usan para mostrar compañía o ausencia.",
+  "Examples": {
+    "con": {
+      "Description": "Junto a alguien o algo.",
+      "Examples": ["con mi amigo", "con una sonrisa"]
     },
-    "Sour": {
-      "Word": "agrio",
-      "Examples": ["El limón es agrio.", "La leche está agria."],
-      "Translation(tr)": "ekşi"
-    },
-    "Bitter": {
-      "Word": "amargo",
-      "Examples": ["El café es amargo.", "El chocolate oscuro es amargo."],
-      "Translation(tr)": "acı"
+    "sin": {
+      "Description": "Falta de algo.",
+      "Examples": ["sin miedo", "sin dinero"]
     }
-  },
-  "Texture": {
-    "Hard": {
-      "Word": "duro",
-      "Examples": ["La piedra es dura.", "La cama es muy dura."],
-      "Translation(tr)": "sert"
+  }
+},
+"Compound": {
+  "Description": "Preposiciones compuestas.",
+  "Examples": {
+    "delante de": {
+      "Description": "Enfrente de algo.",
+      "Examples": ["delante del espejo"]
     },
-    "Soft": {
-      "Word": "blando",
-      "Examples": ["La almohada es blanda.", "Su voz es blanda."],
-      "Translation(tr)": "yumuşak"
+    "encima de": {
+      "Description": "En la parte superior.",
+      "Examples": ["encima de la montaña"]
+    },
+    "en lugar de": {
+      "Description": "En lugar de algo.",
+      "Examples": ["en lugar de café"]
+    },
+    "a pesar de": {
+      "Description": "A pesar de algo.",
+      "Examples": ["a pesar de la lluvia"]
+    },
+    "según": {
+      "Description": "De acuerdo con.",
+      "Examples": ["según las reglas"]
+    },
+    "además de": {
+      "Description": "En adición a.",
+      "Examples": ["además de eso"]
     }
   }
 }
-
-}
-
+,
+"QuestionTypes": {
+  "QuestionWords": ["cómo", "quién", "a quién", "de quién", "dónde", "cuándo", "por qué", "cuál", "qué"],
+  "YesNo": {
+    "Description": "Preguntas que se responden con sí o no.",
+    "Examples": ["¿Tienes hambre?", "¿Te gusta la música?"]
+  },
+  "WH": {
+    "Description": "Preguntas que empiezan con palabras interrogativas.",
+    "Examples": ["¿Cómo te llamas?", "¿Dónde vives?"]
+  },
+  "TagQuestions": {
+    "Description": "Pregunta corta de confirmación al final.",
+    "Examples": ["Eres estudiante, ¿verdad?", "Hace frío, ¿no?"]
+  },
+  "ChoiceQuestions": {
+    "Description": "Ofrecen una elección entre opciones.",
+    "Examples": ["¿Quieres té o café?", "¿Es rojo o azul?"]
+  }
+},
+"Conjunctions": {
+  "Coordinating": {
+    "Words": ["y", "pero", "o", "así que", "sin embargo"],
+    "Examples": ["Me gusta el té y el café.", "Ella está cansada pero feliz."]
+  },
+  "Subordinating": {
+    "Words": ["porque", "aunque", "si", "cuando", "mientras", "ya que"],
+    "Examples": [
+      "Me quedé en casa porque llovía.",
+      "Aunque es tarde, lo llamaré.",
+      "Si quieres, ven."
+    ]
+  },
+  "Correlative": {
+    "Words": ["o...o", "ni...ni", "no solo...sino también"],
+    "Examples": [
+      "O vienes tú o voy yo.",
+      "Ni té ni café quiero.",
+      "No solo es inteligente sino también amable."
+    ]
+  }
+},
+"EmotionWords": {
+  "Positive": ["feliz", "emocionado", "tranquilo", "agradecido", "orgulloso"],
+  "Negative": ["triste", "enojado", "preocupado", "asustado", "solo"],
+  "Neutral": ["cansado", "normal", "aburrido"],
+  "Examples": [
+    "Estoy feliz hoy.",
+    "Ella tiene miedo de los perros.",
+    "A veces se sienten solos."
+  ]
+},
+"DirectionAndPositionWords": {
+  "BasicDirections": {
+    "Words": ["derecha", "izquierda", "adelante", "atrás"],
+    "Examples": [
+      "Gira a la derecha en la esquina.",
+      "Ve a la izquierda después del semáforo.",
+      "Da un paso adelante.",
+      "Retrocedió lentamente."
+    ]
+  },
+  "VerticalDirections": {
+    "Words": ["arriba", "abajo", "encima", "debajo"],
+    "Examples": [
+      "Mira arriba al cielo.",
+      "Ella bajó las escaleras.",
+      "El cuadro está encima de la cama.",
+      "El libro está debajo de la mesa."
+    ]
+  },
+  "RelativePositions": {
+    "Words": ["delante de", "detrás de", "al lado de", "entre", "junto a"],
+    "Examples": [
+      "El coche está delante de la casa.",
+      "El gato está detrás de la cortina.",
+      "Ella se sentó al lado de mí.",
+      "Hay un parque entre los edificios.",
+      "El teléfono está junto al teclado."
+    ]
+  }
+},
+"ChangeVerbs": {
+  "IncreaseVerbs": {
+    "Words": ["aumentar", "crecer", "subir", "mejorar", "incrementar"],
+    "Examples": [
+      "Los precios aumentan cada año.",
+      "La temperatura está subiendo.",
+      "Su confianza creció rápidamente.",
+      "Las ventas subieron en julio.",
+      "Ella quiere mejorar sus habilidades."
+    ]
+  },
+  "DecreaseVerbs": {
+    "Words": ["disminuir", "bajar", "caer", "reducir", "declinar"],
+    "Examples": [
+      "La población está disminuyendo.",
+      "Las temperaturas bajaron anoche.",
+      "Las ganancias cayeron repentinamente.",
+      "El precio bajó mucho.",
+      "Necesitamos reducir los residuos."
+    ]
+  },
+  "NeutralChange": {
+    "Words": ["cambiar", "variar", "fluctuar", "moverse"],
+    "Examples": [
+      "El clima cambia a menudo.",
+      "Los resultados pueden variar.",
+      "Los precios fluctúan diariamente.",
+      "El enfoque se movió hacia la calidad."
+    ]
+  }
+}}
