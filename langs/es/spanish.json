@@ -250,5 +250,49 @@
       "Words": ["cambiar", "variar", "fluctuar"],
       "Examples": ["El clima cambia mucho.", "Los resultados varían."]
     }
+  },"ConceptWords": {
+  "Temperature": {
+    "Hot": {
+      "Word": "caliente",
+      "Examples": ["La sopa está caliente.", "Hace un día caliente."],
+      "Translation(tr)": "sıcak"
+    },
+    "Cold": {
+      "Word": "frío",
+      "Examples": ["El agua está fría.", "Hace mucho frío afuera."],
+      "Translation(tr)": "soğuk"
+    }
+  },
+  "Taste": {
+    "Sweet": {
+      "Word": "dulce",
+      "Examples": ["El pastel es dulce.", "La miel sabe dulce."],
+      "Translation(tr)": "tatlı"
+    },
+    "Sour": {
+      "Word": "agrio",
+      "Examples": ["El limón es agrio.", "La leche está agria."],
+      "Translation(tr)": "ekşi"
+    },
+    "Bitter": {
+      "Word": "amargo",
+      "Examples": ["El café es amargo.", "El chocolate oscuro es amargo."],
+      "Translation(tr)": "acı"
+    }
+  },
+  "Texture": {
+    "Hard": {
+      "Word": "duro",
+      "Examples": ["La piedra es dura.", "La cama es muy dura."],
+      "Translation(tr)": "sert"
+    },
+    "Soft": {
+      "Word": "blando",
+      "Examples": ["La almohada es blanda.", "Su voz es blanda."],
+      "Translation(tr)": "yumuşak"
+    }
   }
 }
+
+}
+
