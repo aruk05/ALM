@@ -1,0 +1,1462 @@
+{
+  "Isim": "Aruk Dil Metodu (tr-en)",
+  "Amac": "Türkçeden İngilizce öğrenim",
+  "Ilkeler": [
+    "🌱 Saygı ve sevgi ile öğren",
+    "Önce anla, hemen kullan",
+    "Ezberleme → Kullan",
+    "Bağlam öğrenmenin anahtarıdır"
+  ],
+  "BaslamadanOnceSorular": [
+    "Neden İngilizce öğrenmek istiyorum?",
+    "Motivasyonum nedir?",
+    "Her gün kaç dakika/kaç saat ayırabilirim?"
+  ],
+  "FonetikAlfabe": {
+  "Aciklama": "İngilizce’de kelimeler her zaman yazıldığı gibi okunmaz 😅 Bu yüzden 'International Phonetic Alphabet (IPA)' yani Uluslararası Fonetik Alfabe kullanılır. Bu tablo sana kelimelerin nasıl söylendiğini anlamanda yardımcı olur. Hadi birkaç örnek görelim 🎧",
+  
+  "Sesler": {
+    "SesliHarfler (Vowels)": {
+      "iː": "uzun i → sheep (ʃiːp) 🐑",
+      "ɪ": "kısa i → ship (ʃɪp) 🚢",
+      "e": "e → bed (bed) 🛏️",
+      "æ": "a → cat (kæt) 🐱",
+      "ɑː": "uzun a → car (kɑːr) 🚗",
+      "ɒ": "o → dog (dɒg) 🐶 (UK telaffuz)",
+      "ɔː": "uzun o → door (dɔːr) 🚪",
+      "ʊ": "kısa u → book (bʊk) 📖",
+      "uː": "uzun u → food (fuːd) 🍔",
+      "ʌ": "a → cup (kʌp) ☕",
+      "ɜː": "ör sesi → bird (bɜːd) 🐦",
+      "ə": "schwa (en yaygın ses) → about (əˈbaʊt) 📘"
+    },
+
+    "Ünsüzler (Consonants)": {
+      "θ": "th (diş arası) → think (θɪŋk) 💭",
+      "ð": "th (titreşimli) → this (ðɪs) 👉",
+      "ʃ": "ş → she (ʃiː) 👩",
+      "ʒ": "j (Fransızca 'jour') → measure (ˈmeʒər)",
+      "tʃ": "ç → chair (tʃeər) 🪑",
+      "dʒ": "c → job (dʒɒb) 👔",
+      "ŋ": "ng → sing (sɪŋ) 🎵",
+      "h": "h → hello (həˈləʊ) 👋",
+      "r": "r → red (red) 🔴 (UK’de zayıf okunur)",
+      "j": "y → yes (jes) 👍",
+      "w": "w → we (wiː) 👥"
+    }
+  },
+
+  "OrnekNotlar": [
+    "📌 sheep (ʃiːp) = koyun, ship (ʃɪp) = gemi → yazılış benzer ama ses farkı büyük!",
+    "📌 schwa (ə) sesi İngilizce’nin gizli kahramanı → kelimelerin zayıf hecelerinde çıkar: about (əˈbaʊt).",
+    "📌 Türkçede olmayan seslere (θ, ð, ʃ, ʒ) özellikle dikkat et 😉"
+  ]
+},
+
+"Ozneler": {
+  "Aciklama": "👩‍🏫 İngilizcede özneler, cümlenin 'kim/neyi' anlattığını gösterir. Türkçede bazen özneyi atlarız ('Gidiyorum'), ama İngilizcede özne her zaman bulunmak zorunda! 🚨 O yüzden 'I am', 'She is' gibi başta gelir.",
+  "Liste": {
+    "I (/aɪ/)": "🙋‍♂️ ben → 'am' ile kullanılır",
+    "you (/juː/)": "👉 sen/siz → 'are' ile kullanılır",
+    "he (/hiː/)": "👨 o (erkek) → 'is' ile kullanılır",
+    "she (/ʃiː/)": "👩 o (kadın) → 'is' ile kullanılır",
+    "it (/ɪt/)": "🐶📦 o (cansız/hayvan) → 'is' ile kullanılır",
+    "we (/wiː/)": "👫 biz → 'are' ile kullanılır",
+    "they (/ðeɪ/)": "👥 onlar → 'are' ile kullanılır"
+  },
+  "Ornekler": [
+    "I (/aɪ/) am (/æm/) a student (/ˈstjuːdənt/).",
+    "You (/juː/) are (/ɑːr/) my (/maɪ/) friend (/frɛnd/).",
+    "He (/hiː/) is (/ɪz/) happy (/ˈhæpi/).",
+    "She (/ʃiː/) is (/ɪz/) tired (/ˈtaɪəd/).",
+    "It (/ɪt/) is (/ɪz/) cold (/koʊld/).",
+    "We (/wiː/) are (/ɑːr/) at (/æt/) home (/hoʊm/).",
+    "They (/ðeɪ/) are (/ɑːr/) ready (/ˈrɛdi/)."
+  ],
+  "OrneklerCeviri": [
+    "I am a student. → 🙋‍♂️ Ben öğrenciyim.",
+    "You are my friend. → 👉 Sen benim arkadaşımsın.",
+    "He is happy. → 👨 O mutlu.",
+    "She is tired. → 👩 O yorgun.",
+    "It is cold. → ❄️ Hava soğuk.",
+    "We are at home. → 🏠 Biz evdeyiz.",
+    "They are ready. → 👥 Onlar hazır."
+  ]
+},
+  "YardimciFiiller": {
+  "OlmakFormlari": {
+    "Aciklama": "👉 İngilizcede 'am, is, are' fiilleri 'olmak' anlamına gelir. Yani durumları, kimlikleri, yerleri anlatmak için kullanırız. Türkçedeki '-dır/-dir' ekine benzer 🙂",
+    "Kullanim": {
+      "I": "am 🙋‍♂️",
+      "You/We/They": "are 👥",
+      "He/She/It": "is 👩‍🦰🐶"
+    },
+    "Ornekler": [
+      "I am happy. 🙂",
+      "She is a teacher. 👩‍🏫",
+      "We are friends. 🤝"
+    ],
+    "OrneklerCeviri": [
+      "I am happy. → Ben mutluyum 🙂",
+      "She is a teacher. → O bir öğretmen 👩‍🏫",
+      "We are friends. → Biz arkadaşız 🤝"
+    ]
+  },
+
+  "GecmisOlmakFormlari": {
+    "Aciklama": "⏳ Geçmiş zamanda 'was' ve 'were' kullanılır. Yani 'idi' anlamı verir.",
+    "Kullanim": {
+      "I/He/She/It": "was ⌛",
+      "You/We/They": "were ⏰"
+    },
+    "Ornekler": [
+      "I was at home. 🏠",
+      "They were late. ⌚"
+    ],
+    "OrneklerCeviri": [
+      "I was at home. → Ben evdeydim 🏠",
+      "They were late. → Onlar geç kaldılar ⌚"
+    ]
+  },
+
+  "YapmakFormlari": {
+    "Aciklama": "⚡ 'Do, does, did' hem 'yapmak' anlamına gelir hem de soru/olumsuz cümlelerde yardımcı fiil olarak kullanılır.",
+    "Kullanim": {
+      "I/You/We/They": "do 💪",
+      "He/She/It": "does ✨",
+      "GeçmişZaman": "did ⏳"
+    },
+    "Ornekler": [
+      "Do you like coffee? ☕",
+      "She doesn't know. 🤷‍♀️",
+      "Did they go out? 🚪"
+    ],
+    "OrneklerCeviri": [
+      "Do you like coffee? → Kahveyi sever misin? ☕",
+      "She doesn't know. → O bilmiyor 🤷‍♀️",
+      "Did they go out? → Onlar dışarı çıktılar mı? 🚪"
+    ]
+  },
+
+  "SahipOlmakFormlari": {
+    "Aciklama": "📦 'Have, has, had' sahip olmayı gösterir. Türkçede 'var' demek gibidir.",
+    "Kullanim": {
+      "I/You/We/They": "have 👐",
+      "He/She/It": "has ✋",
+      "GeçmişZaman": "had ⌛"
+    },
+    "Ornekler": [
+      "I have a car. 🚗",
+      "She has a cat. 🐱",
+      "They had a house. 🏡"
+    ],
+    "OrneklerCeviri": [
+      "I have a car. → Benim arabam var 🚗",
+      "She has a cat. → Onun kedisi var 🐱",
+      "They had a house. → Onların bir evi vardı 🏡"
+    ]
+  }
+},
+"CumleKurma": {
+  "Aciklama": "🧩 İngilizcede cümle kurarken genelde SVO sırası vardır: Subject (Özne) + Verb (Fiil) + Object (Nesne). Yani 'Kim + Ne yapıyor + Neyi?' sorusuna cevap verir. Türkçeden farkı şu: İngilizcede özne ATLANAMAZ 🚨",
+  
+  "Yapi": "S (Özne) + V (Fiil) + O (Nesne)",
+
+  "Ornekler": [
+    "I (/aɪ/) eat (/iːt/) apples (/ˈæplz/). 🍎",
+    "She (/ʃiː/) reads (/riːdz/) a book (/bʊk/). 📖",
+    "We (/wiː/) play (/pleɪ/) football (/ˈfʊtbɔːl/). ⚽",
+    "They (/ðeɪ/) watch (/wɑːtʃ/) TV (/ˌtiːˈviː/). 📺"
+  ],
+
+  "OrneklerCeviri": [
+    "I eat apples. → 🙋‍♂️ Ben elma yerim. 🍎",
+    "She reads a book. → 👩 O kitap okur. 📖",
+    "We play football. → 👥 Biz futbol oynarız. ⚽",
+    "They watch TV. → 👨‍👩‍👧‍👦 Onlar televizyon izlerler. 📺"
+  ],
+
+  "Not": "💡 Unutma: Türkçede 'Gidiyorum' diyebilirsin ama İngilizcede 'I am going' demek zorundasın. Özne (S) her zaman cümlenin başında gelir! 🚀"
+}
+,
+"DurumCumleleri": {
+  "Aciklama": "🤗 Günlük konuşmalarda en çok kullandığımız şeylerden biri de kısa cevaplar: evet, hayır, belki... İngilizcede bunları bilmek iletişimi çok kolaylaştırır!",
+
+  "Olumlu": {
+    "Kelimeler": [
+      "Yes (/jɛs/, evet)",
+      "Absolutely (/ˌæbsəˈluːtli/, kesinlikle)",
+      "Definitely (/ˈdɛfɪnətli/, kesinlikle / kesin biçimde)",
+      "Sure (/ʃʊr/, tabii)",
+      "Of course (/əv kɔːrs/, elbette)"
+    ],
+    "Ornekler": [
+      "Yes (/jɛs/), I (/aɪ/) can (/kæn/) help (/hɛlp/) you (/juː/). 🙋‍♂️",
+      "Absolutely (/ˌæbsəˈluːtli/), you (/juː/) are (/ɑːr/) right (/raɪt/). ✅",
+      "Sure (/ʃʊr/), let’s (/lɛts/) go (/ɡoʊ/) together (/təˈɡɛðər/). 🚶‍♂️🚶‍♀️"
+    ],
+    "OrneklerCeviri": [
+      "Yes (/jɛs/, evet), I (/aɪ/, ben) can (/kæn/, yapabilirim) help (/hɛlp/, yardım etmek) you (/juː/, sana). → Evet, ben sana yardım edebilirim. 🙋‍♂️",
+      "Absolutely (/ˌæbsəˈluːtli/, kesinlikle), you (/juː/, sen) are (/ɑːr/, -sın) right (/raɪt/, haklı). → Kesinlikle, sen haklısın. ✅",
+      "Sure (/ʃʊr/, tabii), let’s (/lɛts/, hadi) go (/ɡoʊ/, gidelim) together (/təˈɡɛðər/, birlikte). → Tabii, hadi birlikte gidelim. 🚶‍♂️🚶‍♀️"
+    ]
+  },
+
+
+"Olumsuz": {
+  "Kelimeler": [
+    "No (/noʊ/, hayır)",
+    "Not at all (/nɑːt æt ɔːl/, hiç de değil)",
+    "Never (/ˈnɛvər/, asla)",
+    "Nope (/noʊp/, hayır / yok)"
+  ],
+  "Ornekler": [
+    "No (/noʊ/), I (/aɪ/) don’t (/doʊnt/) like (/laɪk/) coffee (/ˈkɔːfi/). ☕",
+    "Not (/nɑːt/) at (/æt/) all (/ɔːl/), it’s (/ɪts/) fine (/faɪn/). 🙂",
+    "Never (/ˈnɛvər/), I (/aɪ/) don’t (/doʊnt/) do (/duː/) that (/ðæt/). 🙅‍♂️"
+  ],
+  "OrneklerCeviri": [
+    "No (/noʊ/, hayır), I (/aɪ/, ben) don’t (/doʊnt/, sevmem) like (/laɪk/, sevmek) coffee (/ˈkɔːfi/, kahve). → Hayır, ben kahve sevmem. ☕",
+    "Not at all (/nɑːt æt ɔːl/, hiç de değil), it’s (/ɪts/, bu) fine (/faɪn/, sorun değil). → Hiç de değil, sorun yok. 🙂",
+    "Never (/ˈnɛvər/, asla), I (/aɪ/, ben) don’t (/doʊnt/, yapmam) do (/duː/, yapmak) that (/ðæt/, onu). → Asla, ben öyle bir şey yapmam. 🙅‍♂️"
+  ]
+},
+
+"Belirsiz": {
+  "Kelimeler": [
+    "Maybe (/ˈmeɪbi/, belki)",
+    "I think so (/aɪ ˈθɪŋk soʊ/, sanırım öyle)",
+    "Possibly (/ˈpɑːsəbli/, muhtemelen)",
+    "Not sure (/nɑːt ʃʊr/, emin değilim)",
+    "It depends (/ɪt dɪˈpɛndz/, duruma bağlı)"
+  ],
+  "Ornekler": [
+    "Maybe (/ˈmeɪbi/) we’ll (/wiːl/) go (/ɡoʊ/) tomorrow (/təˈmɑːroʊ/). 🌦️",
+    "I (/aɪ/) think (/θɪŋk/) so (/soʊ/), yes (/jɛs/). 🤔",
+    "I’m (/aɪm/) not (/nɑːt/) sure (/ʃʊr/) about (/əˈbaʊt/) that (/ðæt/). 😅"
+  ],
+  "OrneklerCeviri": [
+    "Maybe (/ˈmeɪbi/, belki) we’ll (/wiːl/, biz -ceğiz) go (/ɡoʊ/, gitmek) tomorrow (/təˈmɑːroʊ/, yarın). → Belki yarın gideriz. 🌦️",
+    "I (/aɪ/, ben) think (/θɪŋk/, sanırım) so (/soʊ/, öyle), yes (/jɛs/, evet). → Sanırım öyle, evet. 🤔",
+    "I’m (/aɪm/, ben -im) not (/nɑːt/, değil) sure (/ʃʊr/, emin) about (/əˈbaʊt/, hakkında) that (/ðæt/, o). → Bundan emin değilim. 😅"
+  ]
+},
+"LİSTE_IFS": {
+  "Not": "ℹ️ Eğer soru cümlesi kurmak istiyorsan IFS (Important Functional Structures) yapılarından birini en öne al, sonra özneyi getir, ardından fiil ve nesneyi yaz. Örn: 'Do you like tea?' → (IFS: Do) + (Özne: you) + (Fiil: like) + (Nesne: tea).",
+  
+  "BeForms": {
+    "am (/æm/)": "olmak (ben → I)",
+    "is (/ɪz/)": "olmak (o → he/she/it)",
+    "are (/ɑːr/)": "olmak (sen/biz/onlar → you/we/they)",
+    "was (/wəz/)": "idi (tekil geçmiş)",
+    "were (/wɜːr/)": "idiler (çoğul geçmiş)",
+    "been (/bɪn/)": "olmuş (perfect yapı)",
+    "being (/ˈbiːɪŋ/)": "oluyor (continuous yapı)",
+
+    "Ornekler": {
+      "Normal": "She is happy. → O mutludur.",
+      "Soru": "Is she happy? → O mutlu mu?",
+      "Olumsuz": "She is not happy. → O mutlu değil."
+    }
+  },
+
+  "HaveForms": {
+    "have (/hæv/)": "sahip olmak (I/you/we/they)",
+    "has (/hæz/)": "sahip olmak (he/she/it)",
+    "had (/hæd/)": "sahipti / sahip olmuştu (geçmiş)",
+    
+    "Ornekler": {
+      "Normal": "They have a car. → Onların bir arabası var.",
+      "Soru": "Do they have a car? → Onların arabası var mı?",
+      "Olumsuz": "They don’t have a car. → Onların arabası yok."
+    }
+  },
+
+  "DoForms": {
+    "do (/duː/)": "yapmak / (yardımcı fiil → I/you/we/they)",
+    "does (/dʌz/)": "yapar / (yardımcı fiil → he/she/it)",
+    "did (/dɪd/)": "yaptı / (yardımcı fiil geçmiş)",
+    
+    "Ornekler": {
+      "Normal": "You like music. → Sen müzik seversin.",
+      "Soru": "Do you like music? → Sen müzik sever misin?",
+      "Olumsuz": "You don’t like music. → Sen müzik sevmezsin."
+    }
+  },
+
+  "Modals": {
+    "can (/kæn/)": "yapabilir",
+    "could (/kʊd/)": "yapabilirdi",
+    "will (/wɪl/)": "yapacak",
+    "would (/wʊd/)": "yapardı",
+    "must (/mʌst/)": "zorunda",
+    "should (/ʃʊd/)": "yapmalı",
+    "may (/meɪ/)": "yapabilir (olasılık)",
+    "might (/maɪt/)": "yapabilirdi (olasılık)",
+    "shall (/ʃæl/)": "yapacak (resmi)",
+
+    "Ornekler": {
+      "Normal": "I can swim. → Ben yüzebilirim.",
+      "Soru": "Can you swim? → Yüzebilir misin?",
+      "Olumsuz": "I cannot swim. → Ben yüzemem."
+    }
+  }
+}
+},
+  "KipFiilleri": {
+  "Aciklama": "🛠️ 'can, must, will' gibi yardımcı fiiller yetenek, olasılık, zorunluluk veya izin bildirir. Günlük konuşmalarda çok sık kullanılır.",
+
+
+  "Kisaltmalar": {
+    "will → ’ll": [
+      "I will (/wɪl/) go (/ɡoʊ/). = I'll (/aɪl/) go (/ɡoʊ/). → Ben (I) gideceğim (will/’ll go).",
+      "She will (/wɪl/) come (/kʌm/). = She'll (/ʃiːl/) come (/kʌm/). → O (she) gelecek (will/’ll come)."
+    ],
+    "would → ’d": [
+      "I would (/wʊd/) like (/laɪk/) tea (/tiː/). = I'd (/aɪd/) like (/laɪk/) tea (/tiː/). → Ben (I) çay (tea) isterdim (would/’d like)."
+    ],
+    "is → ’s": [
+      "She is (/ɪz/) here (/hɪr/). = She's (/ʃiːz/) here (/hɪr/). → O (she) buradadır (is/’s here)."
+    ],
+    "are → ’re": [
+      "We are (/ɑːr/) ready (/ˈrɛdi/). = We're (/wɪr/) ready (/ˈrɛdi/). → Biz (we) hazırız (are/’re ready)."
+    ],
+    "have → ’ve": [
+      "I have (/hæv/) seen (/siːn/) it (/ɪt/). = I've (/aɪv/) seen (/siːn/) it (/ɪt/). → Ben (I) onu (it) gördüm (have/’ve seen)."
+    ],
+    "has → ’s": [
+      "He has (/hæz/) finished (/ˈfɪnɪʃt/). = He's (/hiz/) finished (/ˈfɪnɪʃt/). → O (he) bitirdi (has/’s finished)."
+    ],
+    "not → n’t": [
+      "do not (/duː nɑːt/) = don’t (/doʊnt/) → yapma",
+      "is not (/ɪz nɑːt/) = isn’t (/ˈɪzənt/) → değil",
+      "will not (/wɪl nɑːt/) = won’t (/woʊnt/) → yapmayacak"
+    ]
+  },
+
+  "Ornekler": [
+    "I (/aɪ/) can (/kæn/) swim (/swɪm/). 🏊‍♂️",
+    "You (/juː/) must (/mʌst/) go (/ɡoʊ/) now (/naʊ/). ⏰",
+    "She (/ʃiː/) might (/maɪt/) come (/kʌm/) later (/ˈleɪtər/). ⏳",
+    "We (/wiː/) will (/wɪl/) travel (/ˈtrævəl/) tomorrow (/təˈmɑːroʊ/). ✈️",
+    "He (/hiː/) would (/wʊd/) help (/hɛlp/) if (/ɪf/) he (/hiː/) could (/kʊd/). 🤝"
+  ],
+
+  "OrneklerCeviri": [
+    "I (/aɪ/, ben) can (/kæn/, yapabilirim) swim (/swɪm/, yüzmek). → Ben yüzebilirim. 🏊‍♂️",
+    "You (/juː/, sen) must (/mʌst/, zorundasın) go (/ɡoʊ/, gitmek) now (/naʊ/, şimdi). → Sen şimdi gitmek zorundasın. ⏰",
+    "She (/ʃiː/, o) might (/maɪt/, belki) come (/kʌm/, gelir) later (/ˈleɪtər/, sonra). → O belki sonra gelir. ⏳",
+    "We (/wiː/, biz) will (/wɪl/, -ceğiz) travel (/ˈtrævəl/, seyahat) tomorrow (/təˈmɑːroʊ/, yarın). → Biz yarın seyahat edeceğiz. ✈️",
+    "He (/hiː/, o) would (/wʊd/, ederdi) help (/hɛlp/, yardım etmek) if (/ɪf/, eğer) he (/hiː/, o) could (/kʊd/, yapabilse). → O, eğer yapabilseydi yardım ederdi. 🤝"
+  ]
+},
+  "MiktarKelimeleri": {
+  "Aciklama": "📊 İngilizcede miktar bildiren kelimeler, 'ne kadar?' veya 'kaç tane?' sorularına cevap verir. Bazıları sayılamayan isimlerle (uncountable), bazıları sayılabilen isimlerle (countable) kullanılır.",
+
+  "KucukMiktar": {
+    "Kelimeler": {
+      "little (/ˈlɪtəl/)": "az (sayılamayanlar için)",
+      "a little (/ə ˈlɪtəl/)": "biraz (sayılamayanlar için, olumlu anlam)",
+      "few (/fjuː/)": "az (sayılabilenler için)",
+      "a few (/ə fjuː/)": "birkaç (sayılabilenler için, olumlu anlam)",
+      "a bit of (/ə bɪt əv/)": "biraz (gayriresmi kullanım)"
+    },
+    "Ornekler": [
+      "I have a little money.",
+      "She has a few friends.",
+      "Can I have a bit of sugar?"
+    ],
+    "OrneklerCeviri": [
+      "I (/aɪ/, ben) have (/hæv/, var) a little (/ə ˈlɪtəl/, biraz) money (/ˈmʌni/, para). → Biraz param var. 💵",
+      "She (/ʃiː/, o) has (/hæz/, var) a few (/ə fjuː/, birkaç) friends (/frɛndz/, arkadaş). → Onun birkaç arkadaşı var. 👯‍♀️",
+      "Can (/kæn/, -abilir miyim) I (/aɪ/, ben) have (/hæv/, alayım) a bit of (/ə bɪt əv/, biraz) sugar (/ˈʃʊɡər/, şeker)? → Biraz şeker alabilir miyim? 🍬"
+    ]
+  },
+
+  "BuyukMiktar": {
+    "Kelimeler": {
+      "much (/mʌtʃ/)": "çok (sayılamayanlar için)",
+      "many (/ˈmɛni/)": "çok (sayılabilenler için)",
+      "a lot of (/ə lɑːt əv/)": "çok (her ikisiyle de kullanılabilir)",
+      "lots of (/lɑːts əv/)": "çok (günlük konuşma)",
+      "plenty of (/ˈplɛnti əv/)": "bol miktarda"
+    },
+    "Ornekler": [
+      "I don’t have much time.",
+      "We have many books.",
+      "There are a lot of people here.",
+      "She has plenty of water."
+    ],
+    "OrneklerCeviri": [
+      "I (/aɪ/, ben) don’t (/doʊnt/, yok) have (/hæv/, var) much (/mʌtʃ/, çok) time (/taɪm/, zaman). → Çok zamanım yok. ⏳",
+      "We (/wiː/, biz) have (/hæv/, var) many (/ˈmɛni/, çok) books (/bʊks/, kitap). → Bizim çok kitabımız var. 📚",
+      "There (/ðɛr/, orada) are (/ɑːr/, vardır) a lot of (/ə lɑːt əv/, çok) people (/ˈpiːpəl/, insan) here (/hɪr/, burada). → Burada çok insan var. 👥",
+      "She (/ʃiː/, o) has (/hæz/, var) plenty of (/ˈplɛnti əv/, bol miktarda) water (/ˈwɔːtər/, su). → Onun bol miktarda suyu var. 💧"
+    ]
+  },
+
+  "OlumsuzMiktar": {
+    "Kelimeler": {
+      "no (/noʊ/)": "hiç (olumsuz anlam)",
+      "not much (/nɑːt mʌtʃ/)": "pek fazla değil (sayılamayanlar için)",
+      "not many (/nɑːt ˈmɛni/)": "pek fazla değil (sayılabilenler için)",
+      "nope (/noʊp/)": "hayır / yok (gayriresmi kullanım)"
+    },
+    "Ornekler": [
+      "There is no milk left.",
+      "Not much time remains.",
+      "I don’t have many friends.",
+      "Nope, I don’t want that."
+    ],
+    "OrneklerCeviri": [
+      "There (/ðɛr/, orada) is (/ɪz/, vardır) no (/noʊ/, hiç) milk (/mɪlk/, süt) left (/lɛft/, kalmadı). → Hiç süt kalmadı. 🥛",
+      "Not (/nɑːt/, değil) much (/mʌtʃ/, fazla) time (/taɪm/, zaman) remains (/rɪˈmeɪnz/, kaldı). → Pek fazla zaman kalmadı. ⌛",
+      "I (/aɪ/, ben) don’t (/doʊnt/, yok) have (/hæv/, var) many (/ˈmɛni/, çok) friends (/frɛndz/, arkadaş). → Çok arkadaşım yok. 🙁",
+      "Nope (/noʊp/, hayır), I (/aɪ/, ben) don’t (/doʊnt/, istemiyorum) want (/wɑːnt/, istemek) that (/ðæt/, onu). → Hayır, onu istemiyorum. 🙅"
+    ]
+  },
+
+  "MiniNotlar": [
+    "✔️ much → sayılamayanlarla (water, time, money)",
+    "✔️ many → sayılabilenlerle (books, friends, cars)",
+    "✔️ a little / a few → olumlu anlam katar (biraz, birkaç)",
+    "✔️ little / few → yetersizlik vurgusu yapar (çok az, neredeyse yok)",
+    "✔️ a lot of / lots of → hem sayılabilen hem sayılamayanlarla",
+    "✔️ no / not much / not many → olumsuz kullanım",
+    "✔️ nope → günlük konuşmada 'hayır' yerine çok yaygın"
+  ]
+}
+,"DereceZarflari": {
+  "Aciklama": "🌡️ Derece zarfları, bir şeyin miktarını ya da derecesini anlatır. Türkçede 'çok, fazla, yeterince, oldukça' gibi sözcüklere denk gelir.",
+
+  "Kelimeler": {
+    "very (/ˈvɛri/)": "çok",
+    "too (/tuː/)": "fazla / aşırı",
+    "enough (/ɪˈnʌf/)": "yeterince",
+    "quite (/kwaɪt/)": "oldukça",
+    "really (/ˈriːəli/)": "gerçekten / çok",
+    "extremely (/ɪkˈstriːmli/)": "aşırı derecede"
+  },
+
+  "Ornekler": [
+    "She is very smart.",
+    "This bag is too heavy.",
+    "He is tall enough to play basketball.",
+    "It’s quite interesting.",
+    "I really like this movie.",
+    "The exam was extremely difficult."
+  ],
+
+  "OrneklerCeviri": [
+    "She (/ʃiː/, o kadın) is (/ɪz/, dır) very (/ˈvɛri/, çok) smart (/smɑːrt/, zeki). → O çok zeki. 🧠✨",
+    "This (/ðɪs/, bu) bag (/bæɡ/, çanta) is (/ɪz/, dır) too (/tuː/, fazla) heavy (/ˈhɛvi/, ağır). → Bu çanta çok ağır (taşınamayacak kadar). 🎒⚖️",
+    "He (/hiː/, o erkek) is (/ɪz/, dır) tall (/tɔːl/, uzun) enough (/ɪˈnʌf/, yeterince) to play basketball (/ˈbæskətˌbɔːl/, basketbol oynamak). → O basketbol oynamak için yeterince uzun. 🏀",
+    "It’s quite (/kwaɪt/, oldukça) interesting (/ˈɪntrəstɪŋ/, ilginç). → Bu oldukça ilginç. 📖🤔",
+    "I (/aɪ/, ben) really (/ˈriːəli/, gerçekten) like (/laɪk/, severim) this (/ðɪs/, bu) movie (/ˈmuːvi/, film). → Bu filmi gerçekten seviyorum. 🎬❤️",
+    "The exam (/ði ɪɡˈzæm/, sınav) was (/wʌz/, idi) extremely (/ɪkˈstriːmli/, aşırı) difficult (/ˈdɪfɪkəlt/, zor). → Sınav aşırı zordu. 📄🔥"
+  ],
+
+  "MiniNotlar": [
+    "✔️ very → olumlu güçlendirme (She is very kind = O çok nazik)",
+    "✔️ too → olumsuz anlam (This is too expensive = Bu çok pahalı, alınamaz)",
+    "✔️ enough → genelde sıfattan sonra gelir (tall enough, good enough)",
+    "✔️ quite → bazen 'oldukça', bazen 'tamamen' anlamı verir (quite right = tamamen doğru)",
+    "✔️ really → günlük konuşmada 'very' yerine sık kullanılır",
+    "✔️ extremely → resmi/yoğun anlamda 'çok aşırı'"
+  ]
+}
+,
+"Edatlar": {
+  "Aciklama": "📍 Edatlar (prepositions) cümlede yer, zaman, yön ve ilişkiyi anlatır. Türkçede '-de, -deki, -in içinde, -e doğru' gibi eklerle anlattığımız şeyleri İngilizcede ayrı kelimelerle söylüyoruz.",
+
+  "Yer": {
+    "Kelimeler": {
+      "in (/ɪn/)": "içinde",
+      "on (/ɒn/)": "üstünde",
+      "at (/æt/)": "de/da (nokta konum)",
+      "under (/ˈʌndər/)": "altında",
+      "over (/ˈoʊvər/)": "üzerinde",
+      "above (/əˈbʌv/)": "üstünde (temas etmeden)",
+      "below (/bɪˈloʊ/)": "altında",
+      "behind (/bɪˈhaɪnd/)": "arkasında",
+      "in front of (/ɪn frʌnt ʌv/)": "önünde",
+      "next to (/nekst tuː/)": "yanında",
+      "between (/bɪˈtwiːn/)": "arasında",
+      "inside (/ɪnˈsaɪd/)": "içinde",
+      "outside (/ˌaʊtˈsaɪd/)": "dışında"
+    },
+    "Ornekler": [
+      "📚 The book is in the bag.",
+      "🐱 The cat is on the table.",
+      "🚪 He is at the door.",
+      "🚗 They are behind the car."
+    ],
+    "OrneklerCeviri": [
+      "📚 The book is in the bag. → Kitap (the book) çantanın içinde (in the bag) dir (is).",
+      "🐱 The cat is on the table. → Kedi (the cat) masanın üstünde (on the table) dir (is).",
+      "🚪 He is at the door. → O (he) kapıda (at the door) dır (is).",
+      "🚗 They are behind the car. → Onlar (they) arabanın arkasında (behind the car) dır (are)."
+    ]
+  },
+
+  "Zaman": {
+    "Kelimeler": {
+      "at (/æt/)": "-de (saat, an)",
+      "on (/ɒn/)": "-de (gün, tarih)",
+      "in (/ɪn/)": "-de (ay, yıl, zaman dilimi)",
+      "since (/sɪns/)": "-den beri",
+      "for (/fɔːr/)": "boyunca",
+      "by (/baɪ/)": "-e kadar (öncesinde)",
+      "until (/ʌnˈtɪl/)": "-e kadar",
+      "before (/bɪˈfɔːr/)": "önce",
+      "after (/ˈæftər/)": "sonra"
+    },
+    "Ornekler": [
+      "⏰ I wake up at 7 o’clock.",
+      "📅 We met on Monday.",
+      "🎂 She was born in 2000.",
+      "🏠 I have lived here since 2010."
+    ],
+    "OrneklerCeviri": [
+      "⏰ I wake up at 7 o’clock. → Ben (I) saat 7’de (at 7 o’clock) uyanırım (wake up).",
+      "📅 We met on Monday. → Biz (we) Pazartesi (on Monday) tanıştık (met).",
+      "🎂 She was born in 2000. → O (she) 2000’de (in 2000) doğdu (was born).",
+      "🏠 I have lived here since 2010. → Ben (I) 2010’dan beri (since 2010) burada (here) yaşıyorum (have lived)."
+    ]
+  },
+
+  "Yon": {
+    "Kelimeler": {
+      "to (/tuː/)": "-e/a doğru",
+      "into (/ˈɪntuː/)": "içine",
+      "onto (/ˈɒntuː/)": "üzerine",
+      "out of (/aʊt ʌv/)": "dışına",
+      "towards (/təˈwɔːrdz/)": "-e doğru",
+      "across (/əˈkrɔːs/)": "karşıdan karşıya",
+      "along (/əˈlɔːŋ/)": "boyunca"
+    },
+    "Ornekler": [
+      "🏫 She goes to school.",
+      "🚶‍♂️ He walked into the room.",
+      "🐈 The cat jumped onto the table.",
+      "🏃‍♀️ They went out of the house."
+    ],
+    "OrneklerCeviri": [
+      "🏫 She goes to school. → O (she) okula (to school) gider (goes).",
+      "🚶‍♂️ He walked into the room. → O (he) odaya (into the room) yürüdü (walked).",
+      "🐈 The cat jumped onto the table. → Kedi (the cat) masanın üzerine (onto the table) atladı (jumped).",
+      "🏃‍♀️ They went out of the house. → Onlar (they) evin dışına (out of the house) çıktılar (went)."
+    ]
+  }
+},
+"Baglaclar": {
+  "Aciklama": "🔗 Bağlaçlar (conjunctions) iki kelimeyi, iki cümleyi veya iki fikri birbirine bağlar. Türkçede 've, ama, çünkü' gibi kullandığımız kelimelerin İngilizce karşılıklarıdır.",
+
+  "EsduzeyBaglaclar": {
+    "Kelimeler": {
+      "and (/ænd/)": "ve ➕",
+      "but (/bʌt/)": "ama 🤔",
+      "or (/ɔːr/)": "veya / ya da ❓",
+      "so (/soʊ/)": "bu yüzden / yani 👉",
+      "yet (/jɛt/)": "ama (beklenmedik durumlarda) 😮"
+    },
+    "Ornekler": [
+      "🍵 I (/aɪ/) like (/laɪk/) tea (/tiː/) and (/ænd/) coffee (/ˈkɒfi/).",
+      "😊 She (/ʃiː/) is (/ɪz/) tired (/ˈtaɪərd/) but (/bʌt/) happy (/ˈhæpi/).",
+      "❓ Do (/duː/) you (/juː/) want (/wɒnt/) tea (/tiː/) or (/ɔːr/) coffee (/ˈkɒfi/)?",
+      "🌧️ It (/ɪt/) was (/wəz/) raining (/ˈreɪnɪŋ/), so (/soʊ/) we (/wiː/) stayed (/steɪd/) home (/hoʊm/)."
+    ],
+    "OrneklerCeviri": [
+      "🍵 I like tea and coffee. → Ben (I /aɪ/) çay (tea /tiː/) ve (and /ænd/) kahve (coffee /ˈkɒfi/) severim (like /laɪk/).",
+      "😊 She is tired but happy. → O (she /ʃiː/) yorgun (tired /ˈtaɪərd/) ama (but /bʌt/) mutlu (happy /ˈhæpi/).",
+      "❓ Do you want tea or coffee? → Sen (you /juː/) çay (tea /tiː/) mı yoksa (or /ɔːr/) kahve (coffee /ˈkɒfi/) mi istiyorsun (want /wɒnt/)?",
+      "🌧️ It was raining, so we stayed home. → Yağmur (rain /reɪn/) yağıyordu, bu yüzden (so /soʊ/) biz (we /wiː/) evde (home /hoʊm/) kaldık (stayed /steɪd/)."
+    ]
+  },
+
+  "BagimliBaglaclar": {
+    "Kelimeler": {
+      "because (/bɪˈkɔːz/)": "çünkü 🌟",
+      "although (/ɔːlˈðoʊ/)": "olmasına rağmen 😕",
+      "if (/ɪf/)": "eğer 🤔",
+      "when (/wɛn/)": "ne zaman ⏰",
+      "while (/waɪl/)": "iken ⏳",
+      "since (/sɪns/)": "den beri / çünkü 📅"
+    },
+    "Ornekler": [
+      "🏠 I (/aɪ/) stayed (/steɪd/) home (/hoʊm/) because (/bɪˈkɔːz/) it (/ɪt/) rained (/reɪnd/).",
+      "⏰ Although (/ɔːlˈðoʊ/) it’s (/ɪts/) late (/leɪt/), I’ll (/aɪl/) call (/kɔːl/) him (/hɪm/).",
+      "👉 I (/aɪ/) will (/wɪl/) come (/kʌm/) if (/ɪf/) you (/juː/) want (/wɒnt/).",
+      "📖 She (/ʃiː/) was (/wəz/) reading (/ˈriːdɪŋ/) while (/waɪl/) he (/hiː/) was (/wəz/) cooking (/ˈkʊkɪŋ/)."
+    ],
+    "OrneklerCeviri": [
+      "🏠 I stayed home because it rained. → Ben (I /aɪ/) evde (home /hoʊm/) kaldım (stayed /steɪd/) çünkü (because /bɪˈkɔːz/) yağmur yağdı (rained /reɪnd/).",
+      "⏰ Although it’s late, I’ll call him. → Geç (late /leɪt/) olmasına rağmen (although /ɔːlˈðoʊ/), onu (him /hɪm/) arayacağım (I’ll call /aɪl kɔːl/).",
+      "👉 I will come if you want. → Eğer (if /ɪf/) istersen (you want /juː wɒnt/), geleceğim (I will come /aɪ wɪl kʌm/).",
+      "📖 She was reading while he was cooking. → O (she /ʃiː/) kitap okuyordu (was reading /wəz ˈriːdɪŋ/) o (he /hiː/) yemek yaparken (was cooking /wəz ˈkʊkɪŋ/)."
+    ]
+  },
+
+  "KarsilikliBaglaclar": {
+    "Kelimeler": {
+      "either...or (/ˈiːðər ... ɔːr/)": "ya...ya da ⚖️",
+      "neither...nor (/ˈnaɪðər ... nɔːr/)": "ne...ne de 🚫",
+      "not only...but also (/nɒt ˈoʊnli ... bʌt ˈɔːlsoʊ/)": "sadece...değil aynı zamanda ✨"
+    },
+    "Ornekler": [
+      "⚖️ Either (/ˈiːðər/) you (/juː/) come (/kʌm/) or (/ɔːr/) I (/aɪ/) go (/ɡoʊ/).",
+      "🚫 Neither (/ˈnaɪðər/) he (/hiː/) nor (/nɔːr/) she (/ʃiː/) knows (/noʊz/) the (/ðə/) answer (/ˈænsər/).",
+      "✨ She (/ʃiː/) is (/ɪz/) not (/nɒt/) only (/ˈoʊnli/) smart (/smɑːrt/) but (/bʌt/) also (/ˈɔːlsoʊ/) kind (/kaɪnd/)."
+    ],
+    "OrneklerCeviri": [
+      "⚖️ Either you come or I go. → Ya sen (you /juː/) gelirsin (come /kʌm/) ya da (or /ɔːr/) ben (I /aɪ/) giderim (go /ɡoʊ/).",
+      "🚫 Neither he nor she knows the answer. → Ne o (he /hiː/) ne de (she /ʃiː/) cevabı (answer /ˈænsər/) biliyor (knows /noʊz/).",
+      "✨ She is not only smart but also kind. → O (she /ʃiː/) sadece (not only /nɒt ˈoʊnli/) zeki (smart /smɑːrt/) değil, aynı zamanda (but also /bʌt ˈɔːlsoʊ/) nazik (kind /kaɪnd/)."
+    ]
+  }
+},
+  "SoruTipleri": {
+  "Aciklama": "❓ İngilizcede soru sormanın farklı yolları vardır. Türkçede '-mi' ekiyle yaparız. İngilizcede ise genellikle **IFS (Important Functional Structures)** en başa gelir → IFS + Özne + Fiil + Nesne.",
+
+  "YesNoSorulari": {
+    "Not": "✅ Evet/Hayır soruları IFS ile başlar. (Do, Does, Did, Is/Are/Was/Were, Can...)",
+    "OrneklerCeviri": [
+      "Do (/duː/, mi) you (/juː/, sen) like (/laɪk/, sevmek) music (/ˈmjuːzɪk/, müzik)? → Sen müzik sever misin? 🎶 📌 'Do' başa geldiği için soru oldu.",
+      "Does (/dʌz/, mi) she (/ʃiː/, o [dişil]) live (/lɪv/, yaşamak) here (/hɪər/, burada)? → O burada yaşar mı? 🏠 📌 'Does' 3. tekil için kullanıldı.",
+      "Did (/dɪd/, mi) they (/ðeɪ/, onlar) go (/ɡoʊ/, gitmek) to (/tuː/, -e doğru) school (/skuːl/, okul)? → Onlar okula gittiler mi? 🎓 📌 'Did' geçmiş zaman yaptı.",
+      "Is (/ɪz/, mi) he (/hiː/, o [eril]) at (/æt/, -de) home (/hoʊm/, ev)? → O evde mi? 🏡 📌 'Is' başa geldiği için 'değil mi' anlamı kattı.",
+      "Can (/kæn/, yapabilir mi) you (/juː/, sen) swim (/swɪm/, yüzmek)? → Sen yüzebilir misin? 🏊‍♂️ 📌 'Can' yetenek sorusu yaptı."
+    ]
+  },
+
+  "WhSorulari": {
+    "Not": "🗣️ WH kelimesi (what, who, where...) başa gelir, sonra IFS gelir.",
+    "SoruKelimeleri": {
+      "what (/wɒt/)": "ne / neyi",
+      "who (/huː/)": "kim",
+      "where (/wɛr/)": "nerede / nereye",
+      "when (/wɛn/)": "ne zaman",
+      "why (/waɪ/)": "neden",
+      "how (/haʊ/)": "nasıl",
+      "which (/wɪtʃ/)": "hangi",
+      "whose (/huːz/)": "kimin",
+      "whom (/huːm/)": "kimi / kime"
+    },
+    "OrneklerCeviri": [
+      "What (/wɒt/, ne) is (/ɪz/, -dir) your (/jʊr/, senin) name (/neɪm/, isim)? → Senin adın ne? 📝",
+      "Where (/wɛr/, nerede) do (/duː/, mi) you (/juː/, sen) live (/lɪv/, yaşamak)? → Sen nerede yaşıyorsun? 🏠",
+      "When (/wɛn/, ne zaman) will (/wɪl/, -ecek) they (/ðeɪ/, onlar) arrive (/əˈraɪv/, varmak)? → Onlar ne zaman varacak? ⏰",
+      "Why (/waɪ/, neden) are (/ɑːr/, -sın) you (/juː/, sen) late (/leɪt/, geç)? → Neden geç kaldın? 🕒",
+      "How (/haʊ/, nasıl) do (/duː/, mi) you (/juː/, sen) study (/ˈstʌdi/, çalışmak) English (/ˈɪŋɡlɪʃ/, İngilizce)? → Sen İngilizceyi nasıl çalışıyorsun? 📚"
+    ]
+  },
+
+  "TagSorulari": {
+    "Aciklama": "🔄 Tag questions, cümlenin sonuna 'değil mi?' ekler. Türkçedeki onay sorularına benzer.",
+    "OrneklerCeviri": [
+      "It’s (/ɪts/, bu) cold (/koʊld/, soğuk), isn’t (/ˈɪzənt/, değil) it (/ɪt/, o [cansız])? → Hava soğuk, değil mi? ❄️",
+      "They (/ðeɪ/, onlar) are (/ɑːr/, -dir) students (/ˈstjuːdənts/, öğrenciler), aren’t (/ɑːrnt/, değil) they (/ðeɪ/, onlar)? → Onlar öğrenci, değil mi? 🎓",
+      "He (/hiː/, o [eril]) likes (/laɪks/, sever) tea (/tiː/, çay), doesn’t (/ˈdʌzənt/, değil) he (/hiː/, o [eril])? → O çayı sever, değil mi? 🍵",
+      "We (/wiː/, biz) met (/mɛt/, buluştuk) yesterday (/ˈjɛstərdeɪ/, dün), didn’t (/ˈdɪdənt/, değil) we (/wiː/, biz)? → Biz dün buluştuk, değil mi? 📅"
+    ]
+  },
+
+  "SecimSorulari": {
+    "Aciklama": "☕🍵 Choice questions = seçenek soruları. Türkçede 'çay mı kahve mi?' gibi.",
+    "OrneklerCeviri": [
+      "Do (/duː/, mi) you (/juː/, sen) want (/wɑːnt/, istemek) tea (/tiː/, çay) or (/ɔːr/, veya) coffee (/ˈkɒfi/, kahve)? → Sen çay mı kahve mi istiyorsun? ☕🍵",
+      "Is (/ɪz/, mi) it (/ɪt/, bu) red (/rɛd/, kırmızı) or (/ɔːr/, veya) blue (/bluː/, mavi)? → Bu kırmızı mı yoksa mavi mi? 🔴🔵"
+    ]
+  }
+}
+,
+
+  "Duygular": {
+  "Aciklama": "🎭 İngilizcede duyguları bilmek çok önemlidir çünkü kendimizi ve başkalarını anlatırken sürekli kullanırız. Türkçede 'mutlu, üzgün, kızgın' deriz; İngilizcede bunların karşılıklarını öğrenelim 🙂",
+
+  "Olumlu": {
+    "Kelimeler": {
+      "happy (/ˈhæpi/)": "mutlu 🙂",
+      "excited (/ɪkˈsaɪtɪd/)": "heyecanlı 🤩",
+      "calm (/kɑːm/)": "sakin 😌",
+      "grateful (/ˈɡreɪtfəl/)": "minnettar 🙏",
+      "proud (/praʊd/)": "gururlu 🦁"
+    },
+    "OrneklerCeviri": [
+      "I (/aɪ/, ben) am (/æm/, -im) happy (/ˈhæpi/, mutlu) today (/təˈdeɪ/, bugün). → Ben bugün mutluyum. 🙂 📌 'am' burada özne ile duyguyu bağladı.",
+      "She (/ʃiː/, o [dişil]) is (/ɪz/, -dir) excited (/ɪkˈsaɪtɪd/, heyecanlı) about (/əˈbaʊt/, hakkında) the (/ðə/, -i) trip (/trɪp/, seyahat). → O seyahat hakkında heyecanlı. 🤩"
+    ]
+  },
+
+  "Olumsuz": {
+    "Kelimeler": {
+      "sad (/sæd/)": "üzgün 😢",
+      "angry (/ˈæŋɡri/)": "kızgın 😠",
+      "worried (/ˈwʌrid/)": "endişeli 😟",
+      "afraid (/əˈfreɪd/)": "korkmuş 😨",
+      "lonely (/ˈloʊnli/)": "yalnız 😔"
+    },
+    "OrneklerCeviri": [
+      "He (/hiː/, o [eril]) is (/ɪz/, -dir) sad (/sæd/, üzgün). → O üzgün. 😢",
+      "They (/ðeɪ/, onlar) are (/ɑːr/, -dır) worried (/ˈwʌrid/, endişeli) about (/əˈbaʊt/, hakkında) the (/ðə/, -i) exam (/ɪɡˈzæm/, sınav). → Onlar sınav hakkında endişeli. 📚"
+    ]
+  },
+
+  "Notr": {
+    "Kelimeler": {
+      "tired (/ˈtaɪərd/)": "yorgun 😴",
+      "okay (/oʊˈkeɪ/)": "iyi / fena değil 🙂",
+      "bored (/bɔːrd/)": "sıkılmış 🥱"
+    },
+    "OrneklerCeviri": [
+      "I (/aɪ/, ben) am (/æm/, -im) tired (/ˈtaɪərd/, yorgun) after (/ˈæftər/, sonra) work (/wɜːrk/, iş). → Ben işten sonra yorgunum. 😴",
+      "We (/wiː/, biz) are (/ɑːr/, -ız) bored (/bɔːrd/, sıkılmış). → Biz sıkıldık. 🥱"
+    ]
+  }
+}
+,
+
+  "DegisimFiilleri": {
+  "Aciklama": "📈📉 Bu fiiller bir şeyin arttığını, azaldığını veya değiştiğini anlatır. Türkçede 'artmak, azalmak, değişmek' dediğimiz kelimelerin İngilizce karşılıklarıdır.",
+
+  "Artis": {
+    "Kelimeler": {
+      "increase (/ɪnˈkriːs/)": "artmak / artırmak 📈",
+      "rise (/raɪz/)": "yükselmek ☀️",
+      "grow (/ɡroʊ/)": "büyümek 🌱",
+      "go up (/ɡoʊ ʌp/)": "yukarı gitmek / artmak ⬆️",
+      "improve (/ɪmˈpruːv/)": "gelişmek / iyileştirmek 🚀",
+      "boost (/buːst/)": "arttırmak / hızlandırmak ⚡"
+    },
+    "OrneklerCeviri": [
+      "Prices (/praɪsɪz/, fiyatlar) increase (/ɪnˈkriːs/, artar) every year (/ˈɛvri jɪr/, her yıl). → Fiyatlar her yıl artar. 📈",
+      "The temperature (/ˈtɛmpərətʃər/, sıcaklık) is (/ɪz/, -yor) rising (/raɪzɪŋ/, yükseliyor). → Sıcaklık yükseliyor. ☀️",
+      "His (/hɪz/, onun) confidence (/ˈkɑːnfɪdəns/, özgüveni) grew (/ɡruː/, büyüdü) quickly (/ˈkwɪkli/, hızlıca). → Onun özgüveni hızlıca büyüdü. 🌱"
+    ]
+  },
+
+  "Azalis": {
+    "Kelimeler": {
+      "decrease (/dɪˈkriːs/)": "azalmak / azaltmak 📉",
+      "fall (/fɔːl/)": "düşmek 🍂",
+      "drop (/drɑːp/)": "düşmek / düşürmek 💧",
+      "go down (/ɡoʊ daʊn/)": "aşağı gitmek / azalmak ⬇️",
+      "reduce (/rɪˈduːs/)": "azaltmak ✂️",
+      "decline (/dɪˈklaɪn/)": "düşüş göstermek 📉"
+    },
+    "OrneklerCeviri": [
+      "The population (/ˌpɑːpjəˈleɪʃən/, nüfus) is (/ɪz/, -yor) decreasing (/dɪˈkriːsɪŋ/, azalıyor). → Nüfus azalıyor. 📉",
+      "Temperatures (/ˈtɛmpərəʧərz/, sıcaklıklar) fell (/fɛl/, düştü) last night (/læst naɪt/, dün gece). → Sıcaklıklar dün gece düştü. 🌙",
+      "Profits (/ˈprɑːfɪts/, karlar) dropped (/drɑːpt/, düştü) suddenly (/ˈsʌdənli/, aniden). → Karlar aniden düştü. 💸"
+    ]
+  },
+
+  "NotrDegisim": {
+    "Kelimeler": {
+      "change (/ʧeɪndʒ/)": "değişmek / değiştirmek 🔄",
+      "vary (/ˈvɛri/)": "çeşitlenmek / değişiklik göstermek 🔀",
+      "fluctuate (/ˈflʌktʃueɪt/)": "dalgalanmak 🌊",
+      "shift (/ʃɪft/)": "kaymak / yön değiştirmek ↔️"
+    },
+    "OrneklerCeviri": [
+      "The weather (/ˈwɛðər/, hava) changes (/ʧeɪndʒɪz/, değişir) often (/ˈɔfən/, sık sık). → Hava sık sık değişir. 🌦️",
+      "Results (/rɪˈzʌlts/, sonuçlar) may (/meɪ/, -ebilir) vary (/ˈvɛri/, değişiklik gösterebilir). → Sonuçlar değişebilir. 📊",
+      "Prices (/praɪsɪz/, fiyatlar) fluctuate (/ˈflʌktʃueɪt/, dalgalanır) daily (/ˈdeɪli/, günlük). → Fiyatlar günlük dalgalanır. 🌊",
+      "The focus (/ˈfoʊkəs/, odak) shifted (/ʃɪftɪd/, kaydı) to (/tuː/, -e) quality (/ˈkwɑːləti/, kalite). → Odak kaliteye kaydı. 🎯"
+    ]
+  }
+},"ZitlikFiilleri": {
+  "Aciklama": "⚖️ Zıtlık fiilleri, birbirine karşıt anlamlar taşır. Türkçede 'başla–bitir', 'aç–kapat', 'gir–çık' gibi fiillerin İngilizce karşılıklarıdır.",
+
+  "BaslaBitir": {
+    "Kelimeler": {
+      "start (/stɑːrt/)": "başlamak ▶️",
+      "begin (/bɪˈɡɪn/)": "başlamak (resmi/daha yazılı) 📝",
+      "stop (/stɑːp/)": "durmak / durdurmak ⛔",
+      "finish (/ˈfɪnɪʃ/)": "bitirmek ✅",
+      "end (/ɛnd/)": "sona ermek 🏁"
+    },
+    "OrneklerCeviri": [
+      "They (/ðeɪ/, onlar) will (/wɪl/, -ecek) start (/stɑːrt/, başlamak) soon (/suːn/, yakında). → Onlar yakında başlayacak. ▶️",
+      "The class (/klæs/, ders) begins (/bɪˈɡɪnz/, başlar) at (/æt/, -de) 9. → Ders saat 9’da başlar. 📝",
+      "Please (/pliːz/, lütfen) stop (/stɑːp/, dur) talking (/ˈtɔːkɪŋ/, konuşmak). → Lütfen konuşmayı durdur. ⛔",
+      "We (/wiː/, biz) finished (/ˈfɪnɪʃt/, bitirdik) the project (/ˈprɑːʤɛkt/, proje). → Projeyi bitirdik. ✅",
+      "The movie (/ˈmuːvi/, film) ended (/ˈɛndɪd/, bitti) late (/leɪt/, geç). → Film geç bitti. 🎬"
+    ]
+  },
+
+  "AcKapat": {
+    "Kelimeler": {
+      "open (/ˈoʊpən/)": "açmak / açık 🔓",
+      "close (/kloʊz/)": "kapatmak / kapalı 🔒",
+      "turn on (/tɜːrn ɑːn/)": "açmak (elektrik/ışık) 💡",
+      "turn off (/tɜːrn ɔːf/)": "kapatmak (elektrik/ışık) 🔌"
+    },
+    "OrneklerCeviri": [
+      "Open (/ˈoʊpən/, aç) the window (/ˈwɪndoʊ/, pencere), please (/pliːz/, lütfen). → Lütfen pencereyi aç. 🔓",
+      "She (/ʃiː/, o [dişil]) closed (/kloʊzd/, kapattı) the door (/dɔːr/, kapı). → O kapıyı kapattı. 🚪",
+      "Can (/kæn/, -ebilir) you (/juː/, sen) turn on (/tɜːrn ɑːn/, aç) the light (/laɪt/, ışık)? → Işığı açabilir misin? 💡",
+      "Turn off (/tɜːrn ɔːf/, kapat) your (/jɔːr/, senin) phone (/foʊn/, telefon). → Telefonunu kapat. 🔌"
+    ]
+  },
+
+  "GirCik": {
+    "Kelimeler": {
+      "enter (/ˈɛntər/)": "girmek 🚪➡️",
+      "come in (/kʌm ɪn/)": "içeri gelmek 🙋‍♂️",
+      "leave (/liːv/)": "ayrılmak / bırakmak 👋",
+      "go out (/ɡoʊ aʊt/)": "dışarı çıkmak 🌃",
+      "exit (/ˈɛɡzɪt/)": "çıkmak (resmi, tabela dili) 🚷"
+    },
+    "OrneklerCeviri": [
+      "He (/hiː/, o [eril]) entered (/ˈɛntərd/, girdi) the room (/ruːm/, oda). → O odaya girdi. 🚪",
+      "Come in (/kʌm ɪn/, içeri gel) please (/pliːz/, lütfen). → Lütfen içeri gel. 🙋‍♂️",
+      "They (/ðeɪ/, onlar) left (/lɛft/, ayrıldılar) early (/ˈɜːrli/, erken). → Onlar erken ayrıldılar. 👋",
+      "We (/wiː/, biz) go out (/ɡoʊ aʊt/, çıkarız) every night (/ˈɛvri naɪt/, her gece). → Biz her gece dışarı çıkarız. 🌃",
+      "Use (/juːz/, kullan) the exit (/ˈɛɡzɪt/, çıkış). → Çıkışı kullan. 🚷"
+    ]
+  }
+}
+,
+  "YonVeKonumKelimeleri": {
+  "Aciklama": "📍 Bu kelimeler bir şeyin yönünü veya konumunu anlatır. Türkçede 'sağ, sol, yukarı, aşağı, önünde' gibi ifadeler İngilizcede ayrı kelimelerle söylenir.",
+
+  "TemelYonler": {
+    "Kelimeler": {
+      "right (/raɪt/)": "sağ 👉",
+      "left (/lɛft/)": "sol 👈",
+      "forward (/ˈfɔːrwərd/)": "ileriye / ileri ⏩",
+      "backward (/ˈbækwərd/)": "geriye / geri ⏪"
+    },
+    "OrneklerCeviri": [
+      "Turn (/tɜːrn/, dön) right (/raɪt/, sağ) at (/æt/, -de) the corner (/ˈkɔːrnər/, köşe). → Köşede sağa dön. 👉 📌 'Turn right' yön tarifi.",
+      "Go (/ɡoʊ/, git) left (/lɛft/, sol) after (/ˈæftər/, sonra) the light (/laɪt/, ışık). → Işıktan sonra sola git. 👈",
+      "Step (/stɛp/, adım at) forward (/ˈfɔːrwərd/, ileriye), please (/pliːz/, lütfen). → Lütfen ileriye adım at. ⏩",
+      "He (/hiː/, o [eril]) moved (/muːvd/, hareket etti) backward (/ˈbækwərd/, geriye) slowly (/ˈsloʊli/, yavaşça). → O yavaşça geriye hareket etti. ⏪"
+    ]
+  },
+
+  "DikeyYonler": {
+    "Kelimeler": {
+      "up (/ʌp/)": "yukarı ⬆️",
+      "down (/daʊn/)": "aşağı ⬇️",
+      "above (/əˈbʌv/)": "üstünde (temas etmeden) ☁️",
+      "below (/bɪˈloʊ/)": "altında ⬇️"
+    },
+    "OrneklerCeviri": [
+      "Look (/lʊk/, bak) up (/ʌp/, yukarı) at (/æt/, -e) the sky (/skaɪ/, gökyüzü). → Gökyüzüne yukarı bak. ☁️",
+      "She (/ʃiː/, o [dişil]) climbed (/klaɪmd/, tırmandı/indi) down (/daʊn/, aşağı) the stairs (/stɛrz/, merdivenler). → O merdivenlerden aşağı indi. ⬇️",
+      "The picture (/ˈpɪkʧər/, resim) is (/ɪz/, -dir) above (/əˈbʌv/, üstünde) the bed (/bɛd/, yatak). → Resim yatağın üstünde. 🖼️",
+      "The book (/bʊk/, kitap) is (/ɪz/, -dir) below (/bɪˈloʊ/, altında) the table (/ˈteɪbəl/, masa). → Kitap masanın altında. 📚"
+    ]
+  },
+
+  "BagilKonumlar": {
+    "Kelimeler": {
+      "in front of (/ɪn frʌnt ʌv/)": "önünde 👀",
+      "behind (/bɪˈhaɪnd/)": "arkasında 🎒",
+      "next to (/nɛkst tuː/)": "yanında 🤝",
+      "between (/bɪˈtwiːn/)": "arasında ↔️",
+      "beside (/bɪˈsaɪd/)": "yanında (daha yakın) 🪑"
+    },
+    "OrneklerCeviri": [
+      "The car (/kɑːr/, araba) is (/ɪz/, -dir) in front of (/ɪn frʌnt ʌv/, önünde) the house (/haʊs/, ev). → Araba evin önünde. 🚗🏠",
+      "The cat (/kæt/, kedi) is (/ɪz/, -dir) behind (/bɪˈhaɪnd/, arkasında) the curtain (/ˈkɜːrtən/, perde). → Kedi perdenin arkasında. 🐈",
+      "She (/ʃiː/, o [dişil]) sat (/sæt/, oturdu) next to (/nɛkst tuː/, yanında) me (/miː/, ben). → O benim yanımda oturdu. 🤝",
+      "There (/ðɛr/, orada) is (/ɪz/, var) a park (/pɑːrk/, park) between (/bɪˈtwiːn/, arasında) the buildings (/ˈbɪldɪŋz/, binalar). → Binaların arasında bir park var. 🌳",
+      "The phone (/foʊn/, telefon) is (/ɪz/, -dir) beside (/bɪˈsaɪd/, yanında) the keyboard (/ˈkiːbɔːrd/, klavye). → Telefon klavyenin yanında. 📱⌨️"
+    ]
+  }
+}
+,
+
+"SebepVeAmac": {
+  "Aciklama": "🎯 Bu yapılar bir olayın **nedenini** veya **amacını** anlatır. Türkçede 'çünkü, -den dolayı, için' gibi kullanırız. İngilizcede ise 'because of, due to, for' gibi kelimeler vardır.",
+
+  "Kelimeler": {
+    "because of (/bɪˈkɔːz ʌv/)": "… yüzünden / … nedeniyle ☔",
+    "due to (/ˈduː tuː/)": "… den dolayı 🚦",
+    "for (/fɔːr/)": "… için / amacıyla 🎁"
+  },
+
+  "OrneklerCeviri": [
+    "The game (/ɡeɪm/, oyun) was (/wɑːz/, oldu) canceled (/ˈkænsəld/, iptal edildi) because of (/bɪˈkɔːz ʌv/, yüzünden) the rain (/reɪn/, yağmur). → Oyun yağmur yüzünden iptal edildi. ☔ 📌 'because of' → sebep belirtir.",
+    
+    "The flight (/flaɪt/, uçuş) was (/wɑːz/, oldu) delayed (/dɪˈleɪd/, ertelendi) due to (/ˈduː tuː/, nedeniyle) traffic (/ˈtræfɪk/, trafik). → Uçuş trafik nedeniyle ertelendi. 🚦 📌 'due to' → daha resmi sebep ifadesi.",
+    
+    "This (/ðɪs/, bu) gift (/ɡɪft/, hediye) is (/ɪz/, -dir) for (/fɔːr/, için) you (/juː/, sen). → Bu hediye senin için. 🎁 📌 'for' → amaç veya hedef gösterir."
+  ]
+}
+,"KosulYapilari": {
+  "Aciklama": "🔑 Koşul yapıları, bir olayın gerçekleşmesinin başka bir şarta bağlı olduğunu gösterir. Türkçede 'eğer, -mezse, koşuluyla' deriz; İngilizcede 'if, unless, as long as, in case' gibi yapılar kullanılır.",
+
+  "Kelimeler": {
+    "if (/ɪf/)": "eğer 🤔",
+    "unless (/ənˈlɛs/)": "…mezse / …madıkça 🚫",
+    "as long as (/æz lɔːŋ æz/)": "… sürece ⏳",
+    "in case (/ɪn keɪs/)": "… ihtimaline karşı 🔒"
+  },
+
+  "OrneklerCeviri": [
+    "I (/aɪ/, ben) will (/wɪl/, -eceğim) call (/kɔːl/, aramak) you (/juː/, seni) if (/ɪf/, eğer) I (/aɪ/, ben) have (/hæv/, sahip olmak) time (/taɪm/, zaman). → Eğer vaktim olursa seni arayacağım. 📞",
+
+    "She (/ʃiː/, o [dişil]) won’t (/woʊnt/, yapmayacak) go (/ɡoʊ/, gitmek) unless (/ənˈlɛs/, …mezse) you (/juː/, sen) invite (/ɪnˈvaɪt/, davet etmek) her (/hɜːr/, onu). → Onu davet etmezsen gelmeyecek. 🚫",
+
+    "We (/wiː/, biz) can (/kæn/, yapabiliriz) stay (/steɪ/, kalmak) here (/hɪr/, burada) as long as (/æz lɔːŋ æz/, … sürece) it (/ɪt/, hava) doesn’t (/ˈdʌznt/, yapmazsa) rain (/reɪn/, yağmur yağmak). → Yağmur yağmadığı sürece burada kalabiliriz. ⛺",
+
+    "Take (/teɪk/, al) an (/æn/, bir) umbrella (/ʌmˈbrɛlə/, şemsiye) in case (/ɪn keɪs/, … ihtimaline karşı) it (/ɪt/, hava) rains (/reɪnz/, yağmur yağar). → Yağmur yağarsa diye şemsiye al. ☔"
+  ]
+}
+,
+
+  "AracVeBicim": {
+  "Aciklama": "🛠️ Bu kelimeler bir şeyin **nasıl yapıldığını**, hangi **araçla** yapıldığını veya kimin tarafından gerçekleştirildiğini anlatır. Türkçede 'ile, tarafından, gibi, olarak' ifadelerinin İngilizce karşılıklarıdır.",
+
+  "Kelimeler": {
+    "by (/baɪ/)": "tarafından / ile (yöntem) ✍️",
+    "with (/wɪð/)": "ile (araç kullanımı) 🔪",
+    "like (/laɪk/)": "gibi 🐎",
+    "as (/æz/)": "olarak 👩‍🏫"
+  },
+
+  "OrneklerCeviri": [
+    "This (/ðɪs/, bu) book (/bʊk/, kitap) was (/wɑːz/, oldu) written (/ˈrɪtən/, yazıldı) by (/baɪ/, tarafından) Tolkien (/ˈtoʊlkiːn/, Tolkien). → Bu kitap Tolkien tarafından yazıldı. ✍️",
+    
+    "She (/ʃiː/, o [dişil]) cut (/kʌt/, kesti) the (/ðə/, -i) bread (/brɛd/, ekmek) with (/wɪð/, ile) a (/ə/, bir) knife (/naɪf/, bıçak). → O ekmeği bir bıçakla kesti. 🔪",
+    
+    "He (/hiː/, o [eril]) runs (/rʌnz/, koşar) like (/laɪk/, gibi) a (/ə/, bir) horse (/hɔːrs/, at). → O bir at gibi koşar. 🐎",
+    
+    "She (/ʃiː/, o [dişil]) works (/wɜːrks/, çalışır) as (/æz/, olarak) a (/ə/, bir) teacher (/ˈtiːtʃər/, öğretmen). → O bir öğretmen olarak çalışır. 👩‍🏫"
+  ]
+}
+,
+  
+"Birliktelik": {
+  "Aciklama": "👫 Bu kelimeler bir şeyin **yanında, birlikte olup olmadığını** gösterir. Türkçedeki 'ile' ve '-sız' eklerinin İngilizce karşılıklarıdır.",
+
+  "Kelimeler": {
+    "with (/wɪð/)": "ile / birlikte 🤝",
+    "without (/wɪˈðaʊt/)": "olmadan / -sız 🚫"
+  },
+
+  "OrneklerCeviri": [
+    "I (/aɪ/, ben) went (/wɛnt/, gittim) to (/tuː/, -e) the (/ðə/, -e) cinema (/ˈsɪnəmə/, sinema) with (/wɪð/, ile) my (/maɪ/, benim) friend (/frɛnd/, arkadaş). → Ben sinemaya arkadaşım ile gittim. 🍿",
+
+    "She (/ʃiː/, o [dişil]) smiled (/smaɪld/, gülümsedi) with (/wɪð/, ile) happiness (/ˈhæpinəs/, mutluluk). → O mutluluk ile gülümsedi. 😊",
+
+    "He (/hiː/, o [eril]) left (/lɛft/, ayrıldı) without (/wɪˈðaʊt/, olmadan) his (/hɪz/, onun) bag (/bæɡ/, çanta). → O çantasız ayrıldı. 🎒🚫",
+
+    "We (/wiː/, biz) finished (/ˈfɪnɪʃt/, bitirdik) the (/ðə/, -i) work (/wɜːrk/, iş) without (/wɪˈðaʊt/, olmadan) help (/hɛlp/, yardım). → Biz işi yardımsız bitirdik. 💪"
+  ]
+}
+,
+  "BilesikEdatlar": {
+  "Aciklama": "🧩 Bileşik edatlar (compound prepositions) birden fazla kelimeden oluşur. Türkçede '-nın önünde, -nın yerine, -den dolayı' gibi eklerle söylediğimiz yapıları İngilizcede ayrı kelimelerle ifade ederiz.",
+
+  "Kelimeler": {
+    "in front of (/ɪn frʌnt ʌv/)": "önünde 🚗🏠",
+    "on top of (/ɒn tɒp ʌv/)": "üstünde / tepesinde 🏔️",
+    "out of (/aʊt ʌv/)": "dışında / dışında kalmak 💸",
+    "because of (/bɪˈkɔːz ʌv/)": "… yüzünden / … nedeniyle ☔",
+    "according to (/əˈkɔːrdɪŋ tuː/)": "… e göre 📖",
+    "in spite of (/ɪn spaɪt ʌv/)": "… e rağmen ❄️",
+    "instead of (/ɪnˈstɛd ʌv/)": "… yerine ☕➡️🍵",
+    "in addition to (/ɪn əˈdɪʃən tuː/)": "… e ek olarak ➕"
+  },
+
+  "OrneklerCeviri": [
+    "The (/ðə/, -i) car (/kɑːr/, araba) is (/ɪz/, -dir) in front of (/ɪn frʌnt ʌv/, önünde) the (/ðə/, -in) house (/haʊs/, ev). → Araba evin önünde. 🚗🏠",
+
+    "There (/ðɛr/, orada) is (/ɪz/, var) snow (/snoʊ/, kar) on top of (/ɒn tɒp ʌv/, tepesinde) the (/ðə/, -in) mountain (/ˈmaʊntən/, dağ). → Dağın tepesinde kar var. 🏔️",
+
+    "We (/wiː/, biz) ran (/ræn/, koştuk / tükettik) out of (/aʊt ʌv/, dışında kaldık / bitti) money (/ˈmʌni/, para). → Paramız bitti. 💸",
+
+    "The (/ðə/, -i) match (/mætʃ/, maç) was (/wɑːz/, oldu) canceled (/ˈkænsəld/, iptal edildi) because of (/bɪˈkɔːz ʌv/, yüzünden) the (/ðə/, -i) rain (/reɪn/, yağmur). → Maç yağmur yüzünden iptal edildi. ☔",
+
+    "According to (/əˈkɔːrdɪŋ tuː/, … e göre) the (/ðə/, -i) rules (/ruːlz/, kurallar), you (/juː/, sen) must (/mʌst/, -meli) wait (/weɪt/, beklemek). → Kurallara göre beklemelisin. 📖",
+
+    "In spite of (/ɪn spaɪt ʌv/, … e rağmen) the (/ðə/, -i) cold (/koʊld/, soğuk), they (/ðeɪ/, onlar) went (/wɛnt/, gittiler) outside (/ˌaʊtˈsaɪd/, dışarı). → Soğuğa rağmen dışarı gittiler. ❄️",
+
+    "I (/aɪ/, ben) drank (/dræŋk/, içtim) tea (/tiː/, çay) instead of (/ɪnˈstɛd ʌv/, yerine) coffee (/ˈkɒfi/, kahve). → Kahve yerine çay içtim. ☕➡️🍵",
+
+    "In addition to (/ɪn əˈdɪʃən tuː/, … e ek olarak) English (/ˈɪŋɡlɪʃ/, İngilizce), she (/ʃiː/, o [dişil]) speaks (/spiːks/, konuşur) French (/frɛntʃ/, Fransızca). → İngilizceye ek olarak Fransızca konuşur. ➕"
+  ]
+},
+    "ZamanEdatlari": {
+  "Aciklama": "⏰ Zaman edatları bir olayın ne zaman olduğunu anlatır. Türkçede '-de, -den beri, -e kadar' gibi eklerle kurduğumuz anlamları İngilizcede ayrı kelimelerle veririz.",
+
+  "Kelimeler": {
+    "at (/æt/)": "-de (saat, belirli anlarda) 🕖",
+    "on (/ɒn/)": "-de (gün, tarih) 📅",
+    "in (/ɪn/)": "-de (ay, yıl, dönem) 📆",
+    "since (/sɪns/)": "-den beri ⏳",
+    "for (/fɔːr/)": "boyunca / -dir 🕰️",
+    "by (/baɪ/)": "-e kadar (öncesinde) 📌",
+    "until (/ənˈtɪl/)": "-e kadar ⏲️",
+    "before (/bɪˈfɔːr/)": "önce ⏮️",
+    "after (/ˈæftər/)": "sonra ⏭️",
+    "from ... to (/frʌm ... tuː/)": "-den ... -e kadar 📍➡️📍"
+  },
+
+  "OrneklerCeviri": [
+    "I (/aɪ/, ben) wake up (/weɪk ʌp/, uyanırım) at (/æt/, -de) 7 o’clock (/ˈsɛvən əˈklɒk/, saat 7). → Ben saat 7’de uyanırım. 🕖",
+
+    "We (/wiː/, biz) met (/mɛt/, tanıştık) on (/ɒn/, -de) Monday (/ˈmʌndeɪ/, Pazartesi). → Biz Pazartesi tanıştık. 📅",
+
+    "She (/ʃiː/, o [dişil]) was born (/wəz bɔːrn/, doğdu) in (/ɪn/, -de) 2000 (/tuː ˈθaʊzənd/, 2000). → O 2000’de doğdu. 📆",
+
+    "I (/aɪ/, ben) have lived (/hæv lɪvd/, yaşadım/yaşıyorum) here (/hɪr/, burada) since (/sɪns/, -den beri) 2010 (/tuː ˈθaʊzənd tɛn/). → 2010’dan beri burada yaşıyorum. ⏳",
+
+    "We (/wiː/, biz) studied (/ˈstʌdid/, ders çalıştık) for (/fɔːr/, boyunca) three (/θriː/, üç) hours (/ˈaʊərz/, saat). → Biz üç saat boyunca ders çalıştık. 🕰️",
+
+    "Finish (/ˈfɪnɪʃ/, bitir) this (/ðɪs/, bunu) by (/baɪ/, -e kadar) tomorrow (/təˈmɑːroʊ/, yarın). → Bunu yarına kadar bitir. 📌",
+
+    "Wait (/weɪt/, bekle) until (/ənˈtɪl/, -e kadar) Friday (/ˈfraɪdeɪ/, Cuma). → Cuma’ya kadar bekle. ⏲️",
+
+    "Brush (/brʌʃ/, fırçala) your (/jɔːr/, senin) teeth (/tiːθ/, dişlerin) before (/bɪˈfɔːr/, önce) bed (/bɛd/, yatak/uyku). → Yatmadan önce dişlerini fırçala. ⏮️",
+
+    "Let’s (/lɛts/, hadi) eat (/iːt/, yiyelim) after (/ˈæftər/, sonra) class (/klæs/, ders). → Ders bitince yemek yiyelim. ⏭️",
+
+    "I (/aɪ/, ben) work (/wɜːrk/, çalışırım) from (/frʌm/, -den) 9 (/naɪn/, dokuz) to (/tuː/, -e kadar) 5 (/faɪv/, beş). → Ben 9’dan 5’e kadar çalışırım. 📍➡️📍"
+  ]
+},
+
+"Sifatlar": {
+  "Aciklama": "✨ Sıfatlar (adjectives), isimleri niteleyen kelimelerdir. İngilizcede sıfatlar isimden önce gelir. Örneğin: 'big house' = büyük ev.",
+
+  "TemelSifatlar": {
+    "Kelimeler": {
+      "big (/bɪɡ/)": "büyük 🏠",
+      "small (/smɔːl/)": "küçük 🐶",
+      "fast (/fæst/)": "hızlı 🏃‍♂️",
+      "slow (/sloʊ/)": "yavaş 🐢",
+      "good (/ɡʊd/)": "iyi 👍",
+      "bad (/bæd/)": "kötü 👎"
+    },
+    "Ornekler": [
+      "This is a big house.",
+      "She has a small dog.",
+      "He is fast.",
+      "The turtle is slow.",
+      "This movie is good.",
+      "The weather is bad."
+    ],
+    "OrneklerCeviri": [
+      "This is a big house. → Bu (this) büyük (big) bir evdir (house). 🏠",
+      "She has a small dog. → Onun (she) küçük (small) bir köpeği (dog) var (has). 🐶",
+      "He is fast. → O (he) hızlıdır (fast). 🏃‍♂️",
+      "The turtle is slow. → Kaplumbağa (the turtle) yavaştır (slow). 🐢",
+      "This movie is good. → Bu film (this movie) iyidir (good). 👍",
+      "The weather is bad. → Hava (the weather) kötüdür (bad). 👎"
+    ]
+  }
+}
+,
+
+"Karsilastirma": {
+  "Aciklama": "📊 Karşılaştırma (comparative) yapmak için genelde '-er' eklenir veya 'more' kullanılır. En üst seviyeyi (superlative) anlatırken ise '-est' veya 'the most' gelir.",
+
+  "Kurallar": [
+    "👉 Kısa sıfatlar: big (/bɪɡ/) → bigger (/ˈbɪɡər/) = daha büyük",
+    "👉 Uzun sıfatlar: interesting (/ˈɪntrəstɪŋ/) → more interesting (/mɔːr ˈɪntrəstɪŋ/) = daha ilginç",
+    "👉 Düzensiz: good (/ɡʊd/) → better (/ˈbɛtər/) = daha iyi; bad (/bæd/) → worse (/wɜːrs/) = daha kötü"
+  ],
+
+  "Ornekler": [
+    "This car is faster than that one.",
+    "She is more beautiful than her sister.",
+    "Today is better than yesterday."
+  ],
+
+  "OrneklerCeviri": [
+    "This (/ðɪs/, bu) car (/kɑːr/, araba) is (/ɪz/, -dir) faster (/ˈfæstər/, daha hızlı) than (/ðæn/, -den) that (/ðæt/, şu) one (/wʌn/, bir). → Bu araba o arabadan daha hızlıdır. 🚗💨",
+    "She (/ʃiː/, o [dişil]) is (/ɪz/, -dir) more (/mɔːr/, daha) beautiful (/ˈbjuːtəfl̩/, güzel) than (/ðæn/, -den) her (/hɜːr/, onun) sister (/ˈsɪstər/, kız kardeş). → O, kız kardeşinden daha güzel. 👩✨",
+    "Today (/təˈdeɪ/, bugün) is (/ɪz/, -dir) better (/ˈbɛtər/, daha iyi) than (/ðæn/, -den) yesterday (/ˈjɛstərdeɪ/, dün). → Bugün, dünden daha iyidir. 🌞📅"
+  ],
+
+  "SuperlativeNotlari": [
+    "👉 Kısa sıfatlar: big (/bɪɡ/) → the biggest (/ðə ˈbɪɡəst/) = en büyük 🏠",
+    "👉 Uzun sıfatlar: interesting (/ˈɪntrəstɪŋ/) → the most interesting (/ðə moʊst ˈɪntrəstɪŋ/) = en ilginç 📚",
+    "👉 Düzensiz: good (/ɡʊd/) → the best (/ðə bɛst/) = en iyi 🏆; bad (/bæd/) → the worst (/ðə wɜːrst/) = en kötü ❌"
+  ],
+
+  "Ustunluk": {
+    "Aciklama": "🌟 Üstünlük (superlative) yapmak için genelde '-est' eklenir veya 'most' kullanılır.",
+    "Kurallar": [
+      "Kısa sıfatlar: big (/bɪɡ/) → the biggest (/ðə ˈbɪɡəst/) = en büyük",
+      "Uzun sıfatlar: interesting (/ˈɪntrəstɪŋ/) → the most interesting (/ðə moʊst ˈɪntrəstɪŋ/) = en ilginç",
+      "Düzensiz: good (/ɡʊd/) → the best (/ðə bɛst/) = en iyi; bad (/bæd/) → the worst (/ðə wɜːrst/) = en kötü"
+    ],
+    "Ornekler": [
+      "He is the tallest in the class.",
+      "This is the most important rule.",
+      "She is the best player on the team."
+    ],
+    "OrneklerCeviri": [
+      "He (/hiː/, o [erkek]) is (/ɪz/, -dir) the tallest (/ðə ˈtɔːləst/, en uzun) in (/ɪn/, içinde) the class (/klæs/, sınıf). → O, sınıfta en uzundur. 📏",
+      "This (/ðɪs/, bu) is (/ɪz/, -dir) the most (/ðə moʊst/, en) important (/ɪmˈpɔːrtnt/, önemli) rule (/ruːl/, kural). → Bu, en önemli kuraldır. 📜",
+      "She (/ʃiː/, o [dişil]) is (/ɪz/, -dir) the best (/ðə bɛst/, en iyi) player (/ˈpleɪər/, oyuncu) on (/ɑːn/, üzerinde) the team (/tiːm/, takım). → O, takımın en iyi oyuncusudur. 🏆"
+    ]
+  }
+}
+,
+  "Zamanlar": {
+  "Aciklama": "⏳ İngilizcede zamanlar (tenses), fiilin ne zaman olduğunu gösterir. Türkçede eklerle yaptığımız zamanı, İngilizce yardımcı fiillerle veya fiil çekimleriyle gösterir.",
+
+  "GenişZaman": {
+    "Aciklama": "📖 Present Simple → Alışkanlıklar, genel doğrular, rutinler için kullanılır.",
+    "Yapı": "Özne + Fiil (3. tekilde -s/-es eklenir).",
+    "Ornekler": [
+      "I play football every weekend.",
+      "She works in an office.",
+      "The sun rises in the east."
+    ],
+    "OrneklerCeviri": [
+      "I (/aɪ/, ben) play (/pleɪ/, oynarım) football (/ˈfʊtbɔːl/, futbol) every weekend (/ˈɛvri ˈwiːkˌɛnd/, her hafta sonu). → Ben her hafta sonu futbol oynarım. ⚽",
+      "She (/ʃiː/, o [dişil]) works (/wɜːrks/, çalışır) in (/ɪn/, içinde) an office (/ˈɑːfɪs/, ofis). → O bir ofiste çalışır. 👩‍💼",
+      "The sun (/ðə sʌn/, güneş) rises (/ˈraɪzɪz/, doğar) in the east (/ɪn ði iːst/, doğuda). → Güneş doğudan doğar. 🌅"
+    ]
+  },
+
+  "SimdikiZaman": {
+    "Aciklama": "⏱ Present Continuous → Şu anda olan olaylar için kullanılır.",
+    "Yapı": "Özne + am/is/are + fiil-ing.",
+    "Ornekler": [
+      "I am studying English now.",
+      "She is cooking in the kitchen.",
+      "They are watching TV."
+    ],
+    "OrneklerCeviri": [
+      "I (/aɪ/, ben) am studying (/ˈstʌdiɪŋ/, çalışıyorum) English (/ˈɪŋɡlɪʃ/, İngilizce) now (/naʊ/, şimdi). → Ben şu anda İngilizce çalışıyorum. 📚",
+      "She (/ʃiː/, o [dişil]) is cooking (/ˈkʊkɪŋ/, yemek pişiriyor) in the kitchen (/ˈkɪtʃən/, mutfakta). → O mutfakta yemek pişiriyor. 🍳",
+      "They (/ðeɪ/, onlar) are watching (/ˈwɑːtʃɪŋ/, izliyorlar) TV (/ˌtiːˈviː/, televizyon). → Onlar televizyon izliyor. 📺"
+    ]
+  },
+
+  "GecmisZaman": {
+    "Aciklama": "📜 Past Simple → Geçmişte tamamlanmış olaylar için kullanılır.",
+    "Yapı": "Özne + fiilin 2. hali (V2).",
+    "Ornekler": [
+      "I visited London last year.",
+      "He played football yesterday.",
+      "We watched a movie."
+    ],
+    "OrneklerCeviri": [
+      "I (/aɪ/, ben) visited (/ˈvɪzɪtɪd/, ziyaret ettim) London (/ˈlʌndən/, Londra) last year (/læst jɪr/, geçen yıl). → Ben geçen yıl Londra’yı ziyaret ettim. 🇬🇧",
+      "He (/hiː/, o [erkek]) played (/pleɪd/, oynadı) football (/ˈfʊtbɔːl/, futbol) yesterday (/ˈjɛstərdeɪ/, dün). → O dün futbol oynadı. ⚽",
+      "We (/wiː/, biz) watched (/wɑːtʃt/, izledik) a movie (/ə ˈmuːvi/, bir film). → Biz bir film izledik. 🎬"
+    ]
+  },
+
+  "GelecekZaman": {
+    "Aciklama": "🔮 Future Simple → Gelecekte olacak olaylar için kullanılır.",
+    "Yapı": "Özne + will + fiil.",
+    "Ornekler": [
+      "I will call you tomorrow.",
+      "She will start a new job.",
+      "We will travel to Paris next summer."
+    ],
+    "OrneklerCeviri": [
+      "I (/aɪ/, ben) will call (/kɔːl/, arayacağım) you (/juː/, seni) tomorrow (/təˈmɑːroʊ/, yarın). → Ben yarın seni arayacağım. 📞",
+      "She (/ʃiː/, o [dişil]) will start (/stɑːrt/, başlayacak) a new job (/ə njuː dʒɑːb/, yeni bir iş). → O yeni bir işe başlayacak. 👩‍💻",
+      "We (/wiː/, biz) will travel (/ˈtrævəl/, seyahat edeceğiz) to Paris (/ˈpærɪs/, Paris’e) next summer (/nɛkst ˈsʌmər/, gelecek yaz). → Biz gelecek yaz Paris’e seyahat edeceğiz. ✈️🇫🇷"
+    ]
+  }
+}
+,"YerZarflari": {
+  "Aciklama": "📍 Yer zarfları, bir şeyin nerede olduğunu veya nereye yöneldiğini anlatır. Türkçede 'burada, orada, her yerde, hiçbir yerde' gibi ifadelerin İngilizce karşılıklarıdır.",
+
+  "Kelimeler": {
+    "here (/hɪər/)": "burada",
+    "there (/ðɛər/)": "orada",
+    "nearby (/ˌnɪərˈbaɪ/)": "yakında",
+    "everywhere (/ˈɛvriwɛər/)": "her yerde",
+    "somewhere (/ˈsʌmhwɛər/)": "bir yerde",
+    "anywhere (/ˈɛniwɛər/)": "herhangi bir yerde",
+    "nowhere (/ˈnoʊwɛər/)": "hiçbir yerde"
+  },
+
+  "Ornekler": [
+    "I am here.",
+    "She is there.",
+    "There is a café nearby.",
+    "Children are playing everywhere.",
+    "I want to go somewhere quiet.",
+    "You can sit anywhere.",
+    "He is nowhere to be found."
+  ],
+
+  "OrneklerCeviri": [
+    "I am here. → Ben (I) buradayım (here). 🙋‍♂️",
+    "She is there. → O (she) orada (there). 👩📍",
+    "There is a café nearby. → Yakında (nearby) bir kafe (a café) var (is). ☕",
+    "Children are playing everywhere. → Çocuklar (children) her yerde (everywhere) oynuyor (are playing). 🧒👧🎈",
+    "I want to go somewhere quiet. → Ben (I) sessiz (quiet) bir yere (somewhere) gitmek (go) istiyorum (want). 🤫",
+    "You can sit anywhere. → Sen (you) herhangi bir yerde (anywhere) oturabilirsin (can sit). 🪑",
+    "He is nowhere to be found. → O (he) hiçbir yerde (nowhere) bulunamıyor (to be found). 🔍❌"
+  ],
+
+  "MiniNotlar": [
+    "✔️ here → bulunduğun yerde",
+    "✔️ there → bulunduğun yerin dışında, orada",
+    "✔️ nearby → çok yakın mesafe",
+    "✔️ everywhere → her yerde, sınırsız",
+    "✔️ somewhere → belirsiz bir yerde",
+    "✔️ anywhere → herhangi bir yerde (olumlu/olumsuz fark etmez)",
+    "✔️ nowhere → hiçbir yerde"
+  ]
+}
+,
+"ZamanZarflari": {
+  "Aciklama": "⏰ Zaman zarfları, olayların ne zaman olduğunu anlatır. İngilizcede günlük konuşmalarda çok sık kullanılır. Türkçedeki 'şimdi, yarın, dün, her zaman' gibi kelimelerin karşılıklarıdır.",
+
+  "Kelimeler": {
+    "now (/naʊ/)": "şimdi",
+    "today (/təˈdeɪ/)": "bugün",
+    "tomorrow (/təˈmɑːroʊ/)": "yarın",
+    "yesterday (/ˈjɛstərdeɪ/)": "dün",
+    "soon (/suːn/)": "yakında",
+    "later (/ˈleɪtər/)": "sonra",
+    "next (/nɛkst/)": "sonraki",
+    "last (/læst/)": "geçen",
+    "always (/ˈɔːlweɪz/)": "her zaman → %100 alışkanlık",
+    "often (/ˈɔːfən/ ya da /ˈɑːfən/)": "sık sık → yaklaşık %50 tekrar",
+    "sometimes (/ˈsʌmtaɪmz/)": "bazen → %20-30 arası tekrar",
+    "never (/ˈnɛvər/)": "asla → %0, hiç olmamış"
+  },
+
+  "Ornekler": [
+    "I am busy now.",
+    "We will meet tomorrow.",
+    "She called me yesterday.",
+    "I’ll do it later.",
+    "They came last week.",
+    "I always drink coffee in the morning.",
+    "He is often late to class.",
+    "We sometimes play football together.",
+    "I never eat fast food.",
+    "The movie will start soon."
+  ],
+
+  "OrneklerCeviri": [
+    "I am busy now. → Ben (I) şimdi (now) meşgulüm (am busy). ⏳",
+    "We will meet tomorrow. → Biz (we) yarın (tomorrow) buluşacağız (will meet). 📅",
+    "She called me yesterday. → O (she) beni (me) dün (yesterday) aradı (called). ☎️",
+    "I’ll do it later. → Ben (I) sonra (later) yapacağım (’ll do). 🕐",
+    "They came last week. → Onlar (they) geçen hafta (last week) geldiler (came). 📆",
+    "I always drink coffee in the morning. → Ben (I) her zaman (always) sabahları (in the morning) kahve (coffee) içerim (drink). ☕",
+    "He is often late to class. → O (he) sık sık (often) derse (to class) geç (late) kalır (is). ⏰",
+    "We sometimes play football together. → Biz (we) bazen (sometimes) birlikte (together) futbol (football) oynarız (play). ⚽",
+    "I never eat fast food. → Ben (I) asla (never) fast food yemem (eat). 🍔❌",
+    "The movie will start soon. → Film (the movie) yakında (soon) başlayacak (will start). 🎬"
+  ],
+
+  "MiniNotlar": [
+    "✅ always → %100 → her zaman, hiç şaşmaz.",
+    "✅ often → %50-60 → sık sık yapılan şeyler.",
+    "✅ sometimes → %20-30 → bazen yapılan şeyler.",
+    "✅ never → %0 → hiç olmamış, asla.",
+    "✅ soon → yakında, belirsiz kısa süre.",
+    "✅ later → daha sonra, net olmayan zaman dilimi."
+  ]
+}
+,
+"Karsilastirmalar_ozet": {
+  "Aciklama": "📊 İngilizcede karşılaştırma (comparison) yaparken çoğunlukla 'than (/ðæn/)' bağlacı kullanılır. Bu Türkçedeki '...den / ...dan' ekine karşılık gelir. Ayrıca 'as...as' (/æz ... æz/) ve 'not as...as' (/nɑːt æz ... æz/) yapıları da kıyaslamada çok yaygındır.",
+
+  "Kelimeler": {
+    "bigger (/ˈbɪɡər/)": "daha büyük",
+    "smaller (/ˈsmɔːlər/)": "daha küçük",
+    "faster (/ˈfæstər/)": "daha hızlı",
+    "slower (/ˈsloʊər/)": "daha yavaş",
+    "more interesting (/mɔːr ˈɪntrəstɪŋ/)": "daha ilginç",
+    "less important (/lɛs ɪmˈpɔːrtnt/)": "daha az önemli",
+    "the biggest (/ðə ˈbɪɡəst/)": "en büyük",
+    "the smallest (/ðə ˈsmɔːləst/)": "en küçük",
+    "the most beautiful (/ðə moʊst ˈbjuːtəfəl/)": "en güzel",
+    "the least useful (/ðə liːst ˈjuːsfəl/)": "en az faydalı",
+    "as...as (/æz ... æz/)": "kadar",
+    "not as...as (/nɑːt æz ... æz/)": "kadar değil",
+    "than (/ðæn/)": "...den / ...dan (kıyaslama için)"
+  },
+
+  "Ornekler": [
+    "My house is bigger than yours.",
+    "This phone is more expensive than that one.",
+    "She runs faster than me.",
+    "Today is the hottest day of the year.",
+    "This book is as interesting as the movie.",
+    "This car is not as fast as that car."
+  ],
+
+  "OrneklerCeviri": [
+    "My house is bigger than yours. → Benim evim (my house) seninkinden (yours) daha büyük (bigger) dır (is). 🏠📏",
+    "This phone is more expensive than that one. → Bu telefon (this phone) şu telefondan (that one) daha pahalı (more expensive) dır (is). 📱💸",
+    "She runs faster than me. → O (she) benden (than me) daha hızlı (faster) koşar (runs). 🏃‍♀️💨",
+    "Today is the hottest day of the year. → Bugün (today) yılın (of the year) en sıcak (the hottest) günü (day). 🌞🔥",
+    "This book is as interesting as the movie. → Bu kitap (this book) film (the movie) kadar (as...as) ilginç (interesting). 📖🎬",
+    "This car is not as fast as that car. → Bu araba (this car) o araba (that car) kadar (as...as) hızlı değil (not fast). 🚗⚡❌"
+  ],
+
+  "MiniNotlar": [
+    "✔️ 'than' → doğrudan kıyaslama için kullanılır.",
+    "✔️ 'as...as' → eşitlik kıyası: 'as tall as' = 'kadar uzun'.",
+    "✔️ 'not as...as' → eşitsizlik kıyası: 'not as fast as' = 'kadar hızlı değil'.",
+    "✔️ Superlative: 'the biggest', 'the most beautiful' → en üstün dereceyi gösterir."
+  ]
+}
+,
+"KarsilastirmaPekistiriciler": {
+  "Aciklama": "💪 Karşılaştırmalarda (comparatives) önüne eklenen bazı kelimeler anlamı güçlendirir ya da yumuşatır. Türkçede 'çok daha, biraz daha, epeyce' gibi kullanırız. İngilizcede bu pekiştiriciler cümleye vurgu katar.",
+
+  "Kelimeler": {
+    "much (/mʌtʃ/)": "çok daha",
+    "far (/fɑːr/)": "çok daha / oldukça",
+    "a lot (/ə lɑːt/)": "çok daha",
+    "a little (/ə ˈlɪtl/)": "biraz daha",
+    "a bit (/ə bɪt/)": "biraz daha",
+    "slightly (/ˈslaɪtli/)": "hafifçe / birazcık",
+    "considerably (/kənˈsɪdərəbli/)": "önemli ölçüde / oldukça",
+    "way (/weɪ/)": "çok daha (gündelik dilde)"
+  },
+
+  "Ornekler": [
+    "This book is much better than that one.",
+    "She is a bit taller than her sister.",
+    "Today is far colder than yesterday.",
+    "My car is slightly faster than yours.",
+    "This problem is considerably more difficult.",
+    "That phone is way more expensive."
+  ],
+
+  "OrneklerCeviri": [
+    "This book is much better than that one. → Bu kitap (this book) şu kitaptan (that one) çok daha (much) iyi (better). 📖✨",
+    "She is a bit taller than her sister. → O (she) kız kardeşinden (than her sister) biraz daha (a bit) uzun (taller). 👩📏",
+    "Today is far colder than yesterday. → Bugün (today) dünden (than yesterday) çok daha (far) soğuk (colder). 🌨️❄️",
+    "My car is slightly faster than yours. → Benim arabam (my car) seninkinden (yours) birazcık (slightly) daha hızlı (faster). 🚗💨",
+    "This problem is considerably more difficult. → Bu problem (this problem) oldukça (considerably) daha zor (more difficult). 🤯📚",
+    "That phone is way more expensive. → Şu telefon (that phone) çok daha (way) pahalı (more expensive). 📱💸"
+  ],
+
+  "MiniNotlar": [
+    "✔️ 'much / far / a lot' → büyük farkı vurgular.",
+    "✔️ 'a bit / a little / slightly' → küçük farkı vurgular.",
+    "✔️ 'considerably' → resmi dilde 'önemli ölçüde'.",
+    "✔️ 'way' → gündelik konuşmada 'çok daha' (samimi kullanım)."
+  ]
+}
+,"SekilYontemZarflari": {
+  "Aciklama": "Şekil-Yöntem Zarfları (manner adverbs), bir eylemin nasıl yapıldığını anlatır. Türkçede '-erek/-arak' ekine karşılık gelir. Örneğin: hızlıca, dikkatlice, yavaşça.",
+
+  "Kelimeler": {
+    "quickly": "(/ˈkwɪkli/, hızlıca)",
+    "slowly": "(/ˈsloʊli/, yavaşça)",
+    "carefully": "(/ˈkɛrfəli/, dikkatlice / özenle)",
+    "loudly": "(/ˈlaʊdli/, yüksek sesle / bağırarak)"
+  },
+
+  "Ornekler": [
+    "He runs quickly.",
+    "She speaks slowly.",
+    "Please listen carefully.",
+    "The baby cried loudly."
+  ],
+
+  "OrneklerCeviri": [
+    "He (/hiː/, o) runs (/rʌnz/, koşar) quickly (/ˈkwɪkli/, hızlıca). → O hızlıca koşar. 🏃💨",
+    "She (/ʃiː/, o) speaks (/spiːks/, konuşur) slowly (/ˈsloʊli/, yavaşça). → O yavaşça konuşur. 🐢🗣️",
+    "Please (/pliːz/, lütfen) listen (/ˈlɪsən/, dinle) carefully (/ˈkɛrfəli/, dikkatlice). → Lütfen dikkatlice dinle. 👂⚠️",
+    "The baby (/ðə ˈbeɪbi/, bebek) cried (/kraɪd/, ağladı) loudly (/ˈlaʊdli/, yüksek sesle). → Bebek yüksek sesle ağladı. 👶🔊"
+  ],
+
+  "MiniNot": "👉 Bu zarflar, cümlenin sonunda fiilden hemen sonra kullanılır. Türkçede '-erek / -arak' eki gibi çalışır. Örn: 'He runs quickly' = 'O hızlıca koşar'."
+}
+,
+"SiklikZarflari": {
+  "Aciklama": "🔄 Sıklık zarfları, bir şeyin ne sıklıkla olduğunu anlatır. Türkçede 'her zaman, genellikle, bazen, nadiren, asla' gibi kelimelerin İngilizce karşılıklarıdır. Günlük konuşmalarda çok kullanılır.",
+
+  "Kelimeler": {
+    "always (/ˈɔːlweɪz/)": "her zaman",
+    "usually (/ˈjuːʒuəli/)": "genellikle",
+    "often (/ˈɔːfən/ ya da /ˈɑːfən/)": "sık sık",
+    "sometimes (/ˈsʌmtaɪmz/)": "bazen",
+    "rarely (/ˈrɛərli/)": "nadiren",
+    "never (/ˈnɛvər/)": "asla"
+  },
+
+  "Ornekler": [
+    "I always wake up early.",
+    "She usually drinks tea in the morning.",
+    "We often play football on Sundays.",
+    "They sometimes go to the cinema.",
+    "He rarely eats fast food.",
+    "I never smoke."
+  ],
+
+  "OrneklerCeviri": [
+    "I always wake up early. → Ben (I) her zaman (always) erken (early) uyanırım (wake up). ⏰🌅",
+    "She usually drinks tea in the morning. → O (she) genellikle (usually) sabahları (in the morning) çay (tea) içer (drinks). 🍵",
+    "We often play football on Sundays. → Biz (we) sık sık (often) pazar günleri (on Sundays) futbol (football) oynarız (play). ⚽",
+    "They sometimes go to the cinema. → Onlar (they) bazen (sometimes) sinemaya (to the cinema) giderler (go). 🎬",
+    "He rarely eats fast food. → O (he) nadiren (rarely) fast food yer (eats). 🍔",
+    "I never smoke. → Ben (I) asla (never) sigara içmem (smoke). 🚭"
+  ],
+
+  "MiniNotlar": [
+    "✔️ always → %100 → her zaman",
+    "✔️ usually → %80-90 → genellikle",
+    "✔️ often → %60-70 → sık sık",
+    "✔️ sometimes → %30-40 → bazen",
+    "✔️ rarely → %10 → nadiren",
+    "✔️ never → %0 → asla"
+  ]
+}
+,
+"OlasilikIfadeleri": {
+  "Aciklama": "🎲 Bu ifadeler bir olayın gerçekleşme ihtimalini anlatır. Türkçede 'muhtemelen, belki, kesinlikle' gibi sözcüklerdir. İngilizcede günlük konuşmalarda sıkça karşımıza çıkar.",
+
+  "Kelimeler": {
+    "probably (/ˈprɑːbəbli/)": "muhtemelen",
+    "possibly (/ˈpɑːsəbli/)": "belki / muhtemelen (daha zayıf olasılık)",
+    "maybe (/ˈmeɪbi/)": "belki",
+    "perhaps (/pərˈhæps/)": "belki (daha resmî)",
+    "likely (/ˈlaɪkli/)": "muhtemel / olası",
+    "unlikely (/ʌnˈlaɪkli/)": "olası değil",
+    "certainly (/ˈsɜːrtənli/)": "kesinlikle",
+    "definitely (/ˈdɛfɪnɪtli/)": "kesinlikle / mutlaka"
+  },
+
+  "Ornekler": [
+    "She will probably come later.",
+    "It’s possible that he is at home.",
+    "Maybe we can go tomorrow.",
+    "He is unlikely to pass the exam.",
+    "They will definitely win the game."
+  ],
+
+  "OrneklerCeviri": [
+    "She (/ʃiː/, o kadın) will (/wɪl/, -ecek) probably (/ˈprɑːbəbli/, muhtemelen) come (/kʌm/, gelmek) later (/ˈleɪtər/, daha sonra). → O muhtemelen daha sonra gelecek. ⏳",
+    "It’s (/ɪts/, bu) possible (/ˈpɑːsəbəl/, muhtemel) that he (/hiː/, o erkek) is (/ɪz/, dır) at home (/hoʊm/, evde). → Onun evde olması muhtemel. 🏠",
+    "Maybe (/ˈmeɪbi/, belki) we (/wiː/, biz) can (/kæn/, -ebiliriz) go (/ɡoʊ/, gitmek) tomorrow (/təˈmɑːroʊ/, yarın). → Belki yarın gidebiliriz. 📅",
+    "He (/hiː/, o erkek) is (/ɪz/, dır) unlikely (/ʌnˈlaɪkli/, olası değil) to pass (/pæs/, geçmek) the exam (/ɪɡˈzæm/, sınav). → Onun sınavı geçmesi olası değil. ❌📘",
+    "They (/ðeɪ/, onlar) will (/wɪl/, -ecekler) definitely (/ˈdɛfɪnɪtli/, kesinlikle) win (/wɪn/, kazanmak) the game (/ɡeɪm/, oyun). → Onlar oyunu kesinlikle kazanacak. 🏆"
+  ],
+
+  "MiniNotlar": [
+    "✔️ probably → günlük hayatta en çok kullanılan ihtimal ifadesi.",
+    "✔️ possibly → 'probably'den daha zayıf, daha belirsiz ihtimal.",
+    "✔️ maybe & perhaps → aynı anlama gelir, 'perhaps' daha resmîdir.",
+    "✔️ likely ↔ unlikely → olumlu ve olumsuz olasılığı net belirtir.",
+    "✔️ certainly & definitely → güçlü kesinlik bildirir, 'kesinlikle' anlamında."
+  ]
+}
+}
+
+
+
+
+
+
+
+
+
